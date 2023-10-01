@@ -1,0 +1,45 @@
+[
+        {
+                "name": "Heal Instantly",
+		"uniques": ["Heal this unit by [50] HP", "Doing so will consume this opportunity to choose a Promotion"],
+		"unitTypes": ["Sword","Gunpowder","Mounted","Scout","Siege","Archery","Ranged Gunpowder","Armored","Melee Water","Ranged Water","Submarine"],
+                "row": 0,
+                "column": 0
+        },
+        {
+                "name": "Dance of Fairy",
+                "uniques": ["Heal this unit by [50] HP <upon being promoted>"],
+                "row": 1,
+                "column": 0
+        },
+        {
+                "name": "Asexual Reproduction",
+                "uniques": ["Heal this unit by [5] HP <upon losing at least [5] HP in a single attack>"],
+                "row": 2,
+                "column": 0
+        },
+        {
+                "name": "Anti-Electron Magic",
+                "uniques": [""],
+                "row": 3,
+                "column": 0
+        },
+        {
+                "name": "Electron Magic",
+                "uniques": [""],
+                "row": 4,
+                "column": 0
+        },
+        {
+                "name": "",
+                "uniques": [""],
+                "row": 5,
+                "column": 0
+        },
+        {
+                "name": "",
+                "uniques": [""],
+                "row": 6,
+                "column": 0
+        },
+]
