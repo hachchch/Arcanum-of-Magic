@@ -20,20 +20,21 @@
         },
         {
                 "name": "Anti-Electron Magic",
-                "uniques": [""],
+                "uniques": ["Double movement in [Forest]","Double movement in [Jungle]"],
                 "row": 3,
                 "column": 0
         },
         {
                 "name": "Electron Magic",
-                "uniques": [""],
-                "row": 4,
+                "uniques": ["Double movement in [Hill]"],
+                "row": 5,
                 "column": 0
         },
         {
-                "name": "",
-                "uniques": [""],
-                "row": 5,
+                "name": "Vacuum Magic",
+		"prerequisites": ["Anti-Electron Magic","Electron Magic"],
+                "uniques": ["Invisible to others"],
+                "row": 4,
                 "column": 0
         },
         {
