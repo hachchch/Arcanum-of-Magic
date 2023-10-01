@@ -5,7 +5,7 @@
                 "startingSettlerCount": 1,
                 "startingWorkerCount": 0,
                 "startingMilitaryUnitCount": 1,
-                "startingMilitaryUnit": "Warrior",
+                "startingMilitaryUnit": "Hero",
                 "settlerPopulation": 1,
                 "baseUnitBuyCost": 200,
                 "embarkDefense": 3,
