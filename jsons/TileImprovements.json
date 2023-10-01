@@ -1,4 +1,19 @@
 [
+	{
+		"name": "Temple of Radium",
+	},
+	{
+		"name": "Dark Roam Farm",
+	},
+	{
+		"name": "Super Entanglement Reactor",
+	},
+	{
+		"name": "Extra Dimension Portal",
+	},
+	{
+		"name": "Unial Plant",
+	},
                 // Unbuildable improvements
 	{
 		"name": "Ancient ruins",
