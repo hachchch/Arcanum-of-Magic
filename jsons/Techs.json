@@ -58,7 +58,7 @@
                         {
                                 "name": "Spell Theory",
                                 "prerequisites": ["Mana Collapse","Grimoire of Relativity"],
-                                "row": 5,
+                                "row": 4,
                         },
                         {
                                 "name": "Exploring the Power of the Dimention",
