@@ -24,12 +24,11 @@
 		"attackSound": "metalhit",
 	},
 	{
-		"name": "Knight",
+		"name": "Longswordsman",
 		"unitType": "Sword",
 		"movement": 2,
 		"strength": 8,
 		"cost": 40,
-		"uniques" : ["May upgrade to [Spearman] through ruins-like effects"],
 		"attackSound": "metalhit",
 	},
 	{
