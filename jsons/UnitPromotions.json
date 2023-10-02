@@ -37,4 +37,8 @@
                 "row": 4,
                 "column": 0
         },
+	{
+		"name": "Rejuvenation", // only for Units that have been close to Natural Wonder Fountain of Youth
+		"uniques": ["All healing effects doubled"]
+	},
 ]
