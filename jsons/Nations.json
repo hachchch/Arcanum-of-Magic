@@ -3,7 +3,7 @@
 	{
 		"name": "Spectator",
 		"outerColor": [255,255,255],
-//		"innerColor": [255,255,255]
+//		"innerColor": [0,0,0]
 	},
 
 	{
@@ -29,7 +29,6 @@
 
 		"outerColor": [27,53,63],
 		"innerColor": [213,249,255],
-		"favoredReligion": "Islam",
 		"uniqueName": "Ingenuity",
 		"uniques": ["Free [Great Scientist] appears <upon discovering [Writing]>", "[Great Scientist] is earned [50]% faster"],
 		"cities": ["Babylon","Akkad","Dur-Kurigalzu","Nippur","Borsippa","Sippar","Opis","Mari","Shushan","Eshnunna",
