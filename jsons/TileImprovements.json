@@ -1,18 +1,33 @@
 [
 	{
 		"name": "Temple of Radium",
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Flood plains"],
+		"food": 1,
+		"turnsToBuild": 7,
 	},
 	{
 		"name": "Dark Roam Farm",
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Flood plains"],
+		"food": 1,
+		"turnsToBuild": 7,
 	},
 	{
 		"name": "Super Entanglement Reactor",
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Flood plains"],
+		"food": 1,
+		"turnsToBuild": 7,
 	},
 	{
 		"name": "Extra Dimension Portal",
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Flood plains"],
+		"food": 1,
+		"turnsToBuild": 7,
 	},
 	{
 		"name": "Unial Plant",
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Flood plains"],
+		"food": 1,
+		"turnsToBuild": 7,
 	},
                 // Unbuildable improvements
 	{
