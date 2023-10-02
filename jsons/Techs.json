@@ -1,16 +1,106 @@
 [
         {
-                "name": "",
-                [
-                {
-                "name": "Paleoculture",
-                "row": "",
-        },
-]
+                "columnNumber": 0,
+		"era": "Ancient era",
+		"techCost": 20,
+		"buildingCost": 40,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Paleo Magiculture",
+				"row": 6,
+				"quote": "The highly developed magical culture will make incredible leaps forward.",
+				"uniques": ["Starting tech"]
+			}
+		]
         },
         {
-                "name": "Paleoscience",
+                "columnNumber": 1,
+		"era": "Ancient era",
+		"techCost": 35,
+		"buildingCost": 60,
+		"wonderCost": 185,
+		"techs": [
+                        {
+                                "name": "Grimoire of Relativity",
+                                "prerequisites": ["Paleo Magiculture"],
+                                "row": 3,
+                        },
+                        {
+                                "name": "Mana Collapse",
+                                "prerequisites": ["Paleo Magiculture"],
+                                "row": 5,
+                        },
+                        {
+                                "name": "Mana Amplifier",
+                                "prerequisites": ["Paleo Magiculture"],
+                                "row": 7,
+                        },
+                        {
+                                "name": "Protonic Synthesis",
+                                "prerequisites": ["Paleo Magiculture"],
+                                "row": 9,
+                        },
+                ]
         },
         {
-                "name": "Grimoire of Einstein",
+                "columnNumber": 2,
+		"era": "Ancient era",
+		"techCost": 55,
+		"buildingCost": 75,
+		"wonderCost": 185,
+		"techs": [
+                        {
+                                "name": "Magiclear Powers",
+                                "prerequisites": ["Mana Amplifier","Protonic Synthesis"],
+                                "row": 9,
+                        },
+                        {
+                                "name": "Spell Theory",
+                                "prerequisites": ["Mana Collapse","Grimoire of Relativity"],
+                                "row": 5,
+                        },
+                        {
+                                "name": "Exploring the Power of the Dimention",
+                                "prerequisites": ["Grimoire of Relativity"],
+                                "row": 1,
+                        },
+                        {
+                                "name": "Darkmatter Exorcisting",
+                                "prerequisites": ["Mana Collapse","Grimoire of Relativity"],
+                                "row": 3,
+                        },
+                        {
+                                "name": "Axionity",
+                                "prerequisites": ["Mana Amplifier"],
+                                "row": 7,
+                        },
+                        {
+                                "name": "Dimention of Tangent",
+                                "prerequisites": ["Mana Collapse"],
+                                "row": 5,
+                        },
+                ]
         },
+        {
+                "columnNumber": 3,
+		"era": "Classical era",
+		"techCost": 105,
+		"buildingCost": 100,
+		"wonderCost": 250,
+		"techs": [
+                        {
+                                "name": "Bolt Action Magic Wand",
+                                "row": 10,
+                                "prerequisites": ["Magiclear Powers","Axionity"],
+                        },
+                        {
+                                "name": "Advanced Alchemy",
+                                "row": 6,
+                                "prerequisites": ["Axionity","Spell Theory"],
+                        },
+                        {
+                                "name": "Rotation of Magic Circle",
+                                "row": 9,
+                                "prerequisites": ["Magiclear Powers"],
+                        },
