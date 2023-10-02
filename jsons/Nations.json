@@ -8,7 +8,7 @@
 
 	{
 		//nations
-		"name": "Fairy",
+		"name": "Eucia",
 		"leaderName": "Nebuchadnezzar II",
 		"adjective": ["Babylonian"],
 		"startBias": ["Avoid [Tundra]"],
