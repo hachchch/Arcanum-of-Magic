@@ -41,9 +41,9 @@ TileSets/FantasyHex/Tiles/Eiced Trees
   index: -1
 TileSets/FantasyHex/Tiles/Radioactive Chaos
   rotate: false
-  xy: 800, 1050
-  size: 38, 28
-  orig: 38, 28
+  xy: 806, 1050
+  size: 32, 28
+  orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Magnetic Powers
