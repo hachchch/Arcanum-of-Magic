@@ -27,9 +27,9 @@ TileSets/FantasyHex/Tiles/Temple of Radium
   index: -1
 TileSets/FantasyHex/Tiles/Unial Plant
   rotate: false
-  xy: 656, 990
-  size: 32, 38
-  orig: 32, 38
+  xy: 656, 985
+  size: 32, 43
+  orig: 32, 43
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Eiced Trees
