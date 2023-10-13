@@ -1,0 +1,55 @@
+
+game.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/FantasyHex/Tiles/Super Entanglement Reactor
+  rotate: false
+  xy: 756, 1000
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Extra Dimension Portal
+  rotate: false
+  xy: 806, 1000
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Temple of Radium
+  rotate: false
+  xy: 706, 1000
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Unial Plant
+  rotate: false
+  xy: 656, 1000
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Eiced Trees
+  rotate: false
+  xy: 656, 1050
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Radioactive Chaos
+  rotate: false
+  xy: 806, 1050
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Magnetic Powers
+  rotate: false
+  xy: 556, 681
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
