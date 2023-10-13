@@ -6,16 +6,16 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 TileSets/FantasyHex/Tiles/Super Entanglement Reactor
   rotate: false
-  xy: 756, 1000
-  size: 32, 28
-  orig: 32, 28
+  xy: 756, 999
+  size: 32, 29
+  orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Extra Dimension Portal
   rotate: false
-  xy: 806, 1000
-  size: 32, 28
-  orig: 32, 28
+  xy: 806, 999
+  size: 32, 29
+  orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Temple of Radium
@@ -27,23 +27,23 @@ TileSets/FantasyHex/Tiles/Temple of Radium
   index: -1
 TileSets/FantasyHex/Tiles/Unial Plant
   rotate: false
-  xy: 656, 1000
-  size: 32, 28
-  orig: 32, 28
+  xy: 656, 990
+  size: 32, 38
+  orig: 32, 38
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Eiced Trees
   rotate: false
-  xy: 656, 1050
-  size: 32, 28
-  orig: 32, 28
+  xy: 656, 1040
+  size: 32, 38
+  orig: 32, 38
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Radioactive Chaos
   rotate: false
-  xy: 806, 1050
-  size: 32, 28
-  orig: 32, 28
+  xy: 800, 1050
+  size: 38, 28
+  orig: 38, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Magnetic Powers
