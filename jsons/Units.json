@@ -52,7 +52,6 @@
 		"cost": 80,
 		"attackSound": "metalhit",
 	},
-]
 	{
 		"name": "Aqueous Magician",
 		"requiredTech": "Axionity",
@@ -85,6 +84,7 @@
 		"attackSound": "shot",
 		"requiredTech": "Bolt Action Magic Wand",
 	},
+]
 	// Eude Fairy
 	{
 		"name": "Prelate",
