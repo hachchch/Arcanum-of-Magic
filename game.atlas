@@ -160,7 +160,7 @@ TileSets/FantasyHex/Units/Barnacle Fairy
   index: -1
 TileSets/FantasyHex/Units/Prelate
   rotate: false
-  xy: 776, 580
+  xy: 776, 573
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
