@@ -165,6 +165,7 @@
 		"attackSound": "shot",
 		"requiredTech": "Bolt Action Magic Wand",
 	},
+]
 	// Dietary
 	{
 		"name": "Dryad",
@@ -186,7 +187,6 @@
 		"cost": 80,
 		"attackSound": "nonmetalhit",
 	},
-]
 	{
 		"name": "Spearman",
 		"unitType": "Eude Fairy",
