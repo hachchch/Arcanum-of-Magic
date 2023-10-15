@@ -223,14 +223,49 @@ TileSets/FantasyHex/Units/Fairy Volunteer
   index: -1
 TileSets/FantasyHex/Units/Worker-fairy
   rotate: false
-  xy: 626, 523
+  xy: 626, 531
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-fairy-Stereotype era
   rotate: false
-  xy: 626, 473
+  xy: 626, 481
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Alumina Fairy
+  rotate: false
+  xy: 676, 473
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Hell Fairy
+  rotate: false
+  xy: 726, 473
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Prelate-Stereotype era
+  rotate: false
+  xy: 776, 473
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Bug Fairy
+  rotate: false
+  xy: 776, 523
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Wasserleute
+  rotate: false
+  xy: 776, 523
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
