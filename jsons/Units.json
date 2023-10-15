@@ -52,6 +52,7 @@
 		"cost": 80,
 		"attackSound": "metalhit",
 	},
+]
 	{
 		"name": "Aqueous Magician",
 		"requiredTech": "Axionity",
