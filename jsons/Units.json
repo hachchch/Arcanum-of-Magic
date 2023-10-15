@@ -17,7 +17,7 @@
         },
 	{
 		"name": "Hero",
-		"unitType": "Sword",
+		"unitType": "Homo Sapiens",
 		"movement": 2,
 		"strength": 15,
 		"uniques" : ["[+1] Sight","Unbuildable"],
@@ -25,15 +25,15 @@
 	},
 	{
 		"name": "Longswordsman",
-		"unitType": "Sword",
+		"unitType": "Homo Sapiens",
 		"movement": 2,
 		"strength": 8,
 		"cost": 40,
 		"attackSound": "metalhit",
 	},
 	{
-		"name": "Origin of Fairy",
-		"unitType": "Sword",
+		"name": "",
+		"unitType": "Eude Fairy",
 		"movement": 2,
 		"replaces": "Hero",
 		"uniqueTo": "Eucia",
