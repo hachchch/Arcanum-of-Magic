@@ -6,7 +6,6 @@
     {
         "name": "Homo Sapiens",
         "uniques": ["[-10]% Strength <vs [Eude Fairy] units> <when defending>","[+10]% Strength <vs [Dietary] units> <when attacking>",
-        "Can build [Road] improvements on tiles",
             "Ignores Zone of Control <when adjacent to a [Hero] unit>"],
         "movementType": "Land"
     },
