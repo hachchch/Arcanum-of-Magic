@@ -169,7 +169,6 @@
 		"terrainsCanBeFoundOn": ["Hill","Forest","Jungle","Tundra","Grassland"],
 		"gold": 2,
 		"improvement": "Magnetic Powers",
-		]
 	},
 	{
 		"name": "Incense",
