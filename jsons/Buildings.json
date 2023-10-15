@@ -8,7 +8,10 @@
 		"culture": 1,
 		"cityStrength": 2,
 		"cost": 1,
-		"uniques": ["Indicates the capital city"]
+		"uniques": ["Indicates the capital city",
+			"[1] free [Dryad] units appear <upon being defeated>",
+		"[1] free [Prelate] units appear <upon being defeated>",
+		"[1] free [Hero] units appear <upon being defeated>"]
         },
 	{
 		"name": "Moonlight Reactor",
