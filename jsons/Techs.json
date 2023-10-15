@@ -73,6 +73,7 @@
                         {
                                 "name": "Axionity",
                                 "prerequisites": ["Mana Amplifier"],
+				"uniques": ["[+20]% Strength <for [Hero] units>"],
                                 "row": 7,
                         },
                         {
@@ -197,6 +198,7 @@
 			{
 				"name": "Cosmic Power",
 				"row": 1,
+				"uniques": ["[+80]% Strength <for [Hero] units>"],
 				"prerequisites": ["Ptolemaic theory","Heliocentric Theory"],
 			},
 			{
