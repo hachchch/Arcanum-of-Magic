@@ -139,21 +139,21 @@ TileSets/FantasyHex/Units/Grassarm
   index: -1
 TileSets/FantasyHex/Units/Paradise Fairy
   rotate: false
-  xy: 776, 630
+  xy: 776, 623
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Purgatory Fairy
   rotate: false
-  xy: 726, 580
+  xy: 726, 573
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Barnacle Fairy
   rotate: false
-  xy: 726, 630
+  xy: 726, 623
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -167,35 +167,35 @@ TileSets/FantasyHex/Units/Prelate
   index: -1
 TileSets/FantasyHex/Units/Fairytale
   rotate: false
-  xy: 676, 530
+  xy: 676, 523
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Covalent Fairy
   rotate: false
-  xy: 676, 580
+  xy: 676, 573
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Fairy
   rotate: false
-  xy: 676, 630
+  xy: 676, 623
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Handy Fairy
   rotate: false
-  xy: 626, 630
+  xy: 626, 623
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Peculiar Fairy
   rotate: false
-  xy: 626, 580
+  xy: 626, 573
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
