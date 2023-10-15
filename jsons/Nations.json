@@ -13,6 +13,13 @@
 		//nations
 	},
 	*/
+		//Barbarian
+	{
+		"name": "Barbarians",
+		"outerColor": [0,0,0],
+        "innerColor": [185,12,12],
+		"uniques": ["Can only heal by pillaging"]
+	},
 	{
 		"name": "Council of Kingdoms",
 		"leaderName": "Alexandros VI",
@@ -107,11 +114,4 @@
 		"innerColor": [153,255,51],
 		"cities": ["Brussels"]
 	},
-	//Barbarian
-	{
-		"name": "Barbarians",
-		"outerColor": [0,0,0],
-        "innerColor": [185,12,12],
-		"uniques": ["Can only heal by pillaging"]
-	}
 ]
