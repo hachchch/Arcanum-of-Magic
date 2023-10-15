@@ -120,7 +120,7 @@
 		"movement": 2,
 		"strength": 17,
 		"cost": 160,
-		"requiredTech": "Protonic Synthesis",
+		"requiredTech": "Engineering",
 		"attackSound": "metalhit",
 	},
 	{
@@ -335,7 +335,7 @@
 		"movement": 2,
 		"strength": 17,
 		"cost": 160,
-		"requiredTech": "Protonic Synthesis",
+		"requiredTech": "Engineering",
 		"attackSound": "metalhit",
 	},
 	{
