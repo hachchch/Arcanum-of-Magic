@@ -84,7 +84,7 @@
         },
         {
                 "columnNumber": 3,
-		"era": "Discovering era",
+		"era": "Locomotive era",
 		"techCost": 105,
 		"buildingCost": 100,
 		"wonderCost": 250,
@@ -104,6 +104,48 @@
                                 "row": 9,
                                 "prerequisites": ["Magiclear Powers"],
                         },
+		]
+	},
+	{
+		"columnNumber": 4,
+		"era": "Locomotive era",
+		"techCost": 175,
+		"buildingCost": 100,
+		"wonderCost": 250,
+		"techs": [
+			{
+				"name": "Dimention Precepts",
+				"row": 2,
+				"prerequisites": ["Exploring the Power of the Dimention","Darkmatter Exorcisting"],
+				"quote": ""
+			},
+			{
+				"name": "Magical Apostrophe",
+				"row": 3,
+				"prerequisites": ["Advanced Alchemy","Dimention of Tangent","Spell Theory","Darkmatter Exorcisting"],
+				"quote": ""
+			},
+			{
+				"name": "values ​​Trick",
+				"row": 7,
+				"prerequisites": ["Axionity"],
+			},
+			{
+				"name": "Engineering",
+				"row": 8,
+				"prerequisites": ["Rotation of Magic Circle"],
+				"uniques": ["Roads connect tiles across rivers"],
+			},
+			{
+				"name": "Rotation Method",
+				"row": 10,
+				"prerequisites": ["Rotation of Magic Circle","Bolt Action Magic Wand"],
+			},
+			{
+				"name": "Screw",
+				"row": 9,
+				"prerequisites": ["Rotation of Magic Circle"],
+			},
 		]
 	}
 ]
