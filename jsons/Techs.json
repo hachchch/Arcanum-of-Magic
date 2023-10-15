@@ -214,7 +214,7 @@
 			},
 			{
 				"name": "Efficient Market",
-				"row": 6,
+				"row": 7,
 				"prerequisites": ["Contract Management"],
 				"uniques": ["Enables Defensive Pacts"],
 				"quote": "'Whoso pulleth out this sword of this stone and anvil, is rightwise king born of all England.' - Malory"
