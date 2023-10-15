@@ -1,4 +1,5 @@
 [
+	// Civilian Units
         {
                 "name": "Worker",
 		"unitType": "Civilian",
@@ -32,6 +33,15 @@
 		"cost": 40,
 		"attackSound": "metalhit",
 	},
+	{
+		"name": "Wander",
+		"unitType": "Homo Sapiens",
+		"movement": 2,
+		"strength": 24,
+		"cost": 150,
+		"attackSound": "shot",
+		"requiredTech": "Bolt Action Magic Wand",
+	},
 	// Eude Fairy
 	{
 		"name": "Prelate",
@@ -54,7 +64,15 @@
 		"attackSound": "metalhit",
 	},
 	{
-		"name": "",
+		"name": "Handy Fairy",
+		"unitType": "Eude Fairy",
+		"replaces": "Wander",
+		"uniqueTo": "Eucia",
+		"movement": 2,
+		"strength": 24,
+		"cost": 150,
+		"attackSound": "shot",
+		"requiredTech": "Bolt Action Magic Wand",
 	},
 	// Dietary
 	{
@@ -76,5 +94,5 @@
 		"strength": 8,
 		"cost": 40,
 		"attackSound": "metalhit",
-	},
+	}
 ]
