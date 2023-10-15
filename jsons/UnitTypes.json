@@ -5,21 +5,17 @@
     },
     {
         "name": "Homo Sapiens",
-        "uniques": ["[-10]% Strength <vs [Eude Fairy] units> <when defending>","[+10]% Strength <vs [Dietary] units> <when attacking>",
-            "Ignores Zone of Control <when adjacent to a [Hero] unit>"],
+        "uniques": ["[-10]% Strength <vs [Eude Fairy] units> <when defending>","[+10]% Strength <vs [Dietary] units> <when attacking>"],
         "movementType": "Land"
     },
     {
         "name": "Eude Fairy",
-        "uniques": ["[-10]% Strength <vs [Homo Sapiens] units> <when defending>","[+10]% Strength <vs [Dietary] units> <when attacking>",
-        "Can see over obstacles",
-            "Damage is ignored when determining unit Strength"],
+        "uniques": ["[-10]% Strength <vs [Homo Sapiens] units> <when defending>","[+10]% Strength <vs [Dietary] units> <when attacking>"],
         "movementType": "Land"
     },
     {
         "name": "Dietary",
-        "uniques": ["[-10]% Strength <vs [Eude Fairy] units> <when defending>","[+10]% Strength <vs [Homo Sapiens] units> <when attacking>",
-        "Heal this unit by [5] HP"],
+        "uniques": ["[-10]% Strength <vs [Eude Fairy] units> <when defending>","[+10]% Strength <vs [Homo Sapiens] units> <when attacking>"],
         "movementType": "Land"
     },
     {
