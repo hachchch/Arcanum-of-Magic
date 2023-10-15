@@ -122,6 +122,7 @@
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 
+		"style": "fairy",
 		"outerColor": [84,123,38],
 		"innerColor": [238,239,176],
 		"cities": ["Babylon","Akkad","Dur-Kurigalzu","Nippur","Borsippa","Sippar","Opis","Mari","Shushan","Eshnunna",
