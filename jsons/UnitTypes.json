@@ -20,7 +20,6 @@
     {
         "name": "Dietary",
         "uniques": ["[-10]% Strength <vs [Eude Fairy] units> <when defending>","[+10]% Strength <vs [Homo Sapiens] units> <when attacking>",
-        "Transfer Movement to [Wounded]",
         "Heal this unit by [5] HP <when adjacent to a [Dryad] unit>"],
         "movementType": "Land"
     },
