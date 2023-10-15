@@ -4,10 +4,6 @@
 		"uniques": ["Heal this unit by [50] HP", "Doing so will consume this opportunity to choose a Promotion"],
                 "row": 0,
                 "column": 0
-        },
-	{
-		"name": "Unit System",
-		"uniques": ["Heal this unit by [-49] HP"]
 	},
         {
                 "name": "Dance of Fairy",
