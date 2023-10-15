@@ -139,6 +139,7 @@
 		"strength": 12,
 		"cost": 80,
 		"attackSound": "metalhit",
+	},
 	{
 		"name": "Covalent Fairy",
 		"unitType": "Eude Fairy",
@@ -165,7 +166,6 @@
 		"attackSound": "shot",
 		"requiredTech": "Bolt Action Magic Wand",
 	},
-]
 	// Dietary
 	{
 		"name": "Dryad",
