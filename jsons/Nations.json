@@ -9,7 +9,7 @@
 		//nations
 		"name": "Council of Kingdoms",
 		"leaderName": "Nebuchadnezzar II",
-		"adjective": ["Babylonian"],
+		"adjective": ["Human"],
 		"preferredVictoryType": "Scientific",
 
 		"startIntroPart1": "",
@@ -36,7 +36,7 @@
 	{
 		"name": "Green States",
 		"leaderName": "Nebuchadnezzar II",
-		"adjective": ["Babylonian"],
+		"adjective": ["Beasts"],
 		"preferredVictoryType": "Scientific",
 
 		"startIntroPart1": "",
@@ -63,7 +63,7 @@
 	{
 		"name": "Eucia",
 		"leaderName": "Nebuchadnezzar II",
-		"adjective": ["Babylonian"],
+		"adjective": ["Fairy"],
 		"preferredVictoryType": "Scientific",
 
 		"startIntroPart1": "",
