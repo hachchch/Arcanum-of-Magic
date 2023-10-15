@@ -200,3 +200,38 @@ TileSets/FantasyHex/Units/Peculiar Fairy
   orig: 32, 28
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Fairy Militia
+  rotate: false
+  xy: 576, 573
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Fairy Gunner
+  rotate: false
+  xy: 576, 623
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Fairy Volunteer
+  rotate: false
+  xy: 576, 523
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Worker-fairy
+  rotate: false
+  xy: 626, 523
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Worker-fairy-Stereotype era
+  rotate: false
+  xy: 626, 473
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
