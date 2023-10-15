@@ -55,8 +55,8 @@
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 
-		"outerColor": [214,153,197],
-		"innerColor": [238,239,176],
+		"outerColor": [27,53,63],
+		"innerColor": [213,249,255],
 		"cities": ["Babylon","Akkad","Dur-Kurigalzu","Nippur","Borsippa","Sippar","Opis","Mari","Shushan","Eshnunna",
 			"Ellasar","Erech","Kutha","Sirpurla","Neribtum","Ashur","Ninveh","Nimrud","Arbela","Nuzi",
 			"Arrapkha","Tutub","Shaduppum","Rapiqum","Mashkan Shapir","Tuttul","Ramad","Ana","Haradum","Agrab",
@@ -83,8 +83,8 @@
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 
-		"outerColor": [27,53,63],
-		"innerColor": [213,249,255],
+		"outerColor": [214,153,197],
+		"innerColor": [238,239,176],
 		"cities": ["Babylon","Akkad","Dur-Kurigalzu","Nippur","Borsippa","Sippar","Opis","Mari","Shushan","Eshnunna",
 			"Ellasar","Erech","Kutha","Sirpurla","Neribtum","Ashur","Ninveh","Nimrud","Arbela","Nuzi",
 			"Arrapkha","Tutub","Shaduppum","Rapiqum","Mashkan Shapir","Tuttul","Ramad","Ana","Haradum","Agrab",
