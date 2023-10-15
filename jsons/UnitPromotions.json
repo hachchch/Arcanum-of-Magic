@@ -3,17 +3,20 @@
                 "name": "Heal Instantly",
 		"uniques": ["Heal this unit by [50] HP", "Doing so will consume this opportunity to choose a Promotion"],
                 "row": 0,
+		"unitTypes": ["Homo Sapiens","Eude Fairy","Dietary","Fire","Water","Grass","Special"],
                 "column": 0
 	},
         {
                 "name": "Dance of Fairy",
-                "uniques": ["Heal this unit by [50] HP <upon being promoted>"],
+                "uniques": ["Heal this unit by [20] HP <upon being promoted>"],
                 "row": 1,
+		"unitTypes": ["Eude Fairy"],
                 "column": 0
         },
         {
                 "name": "Asexual Reproduction",
-                "uniques": ["Heal this unit by [5] HP <upon losing at least [5] HP in a single attack>"],
+		"unitTypes": ["Grass"],
+                "uniques": ["Heal this unit by [8] HP <upon losing at least [8] HP in a single attack>"],
                 "row": 2,
                 "column": 0
         },
