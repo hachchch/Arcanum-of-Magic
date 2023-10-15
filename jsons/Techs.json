@@ -154,4 +154,37 @@
 			},
 		]
 	},
+	{
+		"columnNumber": 5,
+		"era": "Reunion era",
+		"techCost": 275,
+		"buildingCost": 120,
+		"wonderCost": 300,
+		"techs": [
+			{
+				"name": "Ptolemaic theory",
+				"row": 3,
+				"prerequisites": ["Dimention Precepts","Magical Apostrophe"],
+				"uniques": ["[+20]% Strength <for [Wander] units>","[+20]% Strength <for [Magin Gun] units>"],
+			},
+			{
+				"name": "Heliocentric Theory",
+				"row": 2,
+				"prerequisites": ["Dimention Precepts","Magical Apostrophe"],
+				"uniques": ["[+50]% Strength <for [Hero] units>"],
+			},
+			{
+				"name": "Contract Management",
+				"row": 7,
+				"prerequisites": ["values Trick"],
+				"uniques": ["Enables Open Borders agreements","Enables conversion of city production to [Gold]"],
+				"quote": "The class system was abolished and a new master-servant relationship was established. And people will only be interested in profits."
+			},
+			{
+				"name": "Rifling",
+				"row": 9,
+				"prerequisites": ["Screw","Rotation Method"],
+			}
+		]
+	},
 ]
