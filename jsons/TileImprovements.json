@@ -49,8 +49,10 @@
 	{
 		"name": "Unial Plant",
 		"techRequired": "Magiclear Powers",
-		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Flood plains"],
-		"food": 1,
+		"terrainsCanBeBuiltOn": ["Oasis"],
+		"food": 4,
+		"production": 5,
+		"uniques": ["[+3 Production] <when at war>"],
 		"turnsToBuild": 7,
 	},
 	        // Resource-specific
