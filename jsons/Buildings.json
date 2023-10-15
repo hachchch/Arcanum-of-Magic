@@ -13,8 +13,16 @@
 	{
 		"name": "Moonlight Reactor",
 		"isWonder": true,
+		"requiredTech": "Mana Collapse",
 		"cost": 130,
 		"production": 3,
 		"uniques": ["[+33]% [Production] <when below [20] Happiness>"],
+	},
+	{
+		"name": "Factory",
+		"cost": 130,
+		"production": 3,
+		"requiredTech": "Rotation of Magic Circle",
+		"uniques": ["[+10]% [Production]"],
 	},
 ]
