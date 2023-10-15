@@ -2,7 +2,7 @@
 	// Mana things
 	{
 		"name": "Mana",
-		"resourceType": "Strategy",
+		"resourceType": "Strategic",
 		"terrainsCanBeFoundOn": ["Grassland","Hill","Forest","Plains","Desert","Snow","Tundra","Jungle"],
 		"production": 1,
 		"improvement": "Temple of Radium",
