@@ -1,4 +1,13 @@
 [	
+	// Mana things
+	{
+		"name": "Mana",
+		"resourceType": "Strategy",
+		"terrainsCanBeFoundOn": ["Grassland"],
+		"production": 1,
+		"improvement": "Temple of Radium",
+		"improvementStats": {"production": 1},
+	},
 	// Bonus resources
 	{
 		"name": "Cattle",
