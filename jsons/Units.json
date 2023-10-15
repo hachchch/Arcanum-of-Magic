@@ -94,7 +94,7 @@
 		"cost": 150,
 		"attackSound": "shot",
 		"uniques": ["[1] additional attacks per turn"],
-		"requiredTech": "Bolt Action Magic Wand",
+		"requiredTech": "Magical Ballistics",
 	},
 	// Eude Fairy
 	{
@@ -190,7 +190,7 @@
 		"cost": 150,
 		"attackSound": "shot",
 		"uniques": ["[1] additional attacks per turn"],
-		"requiredTech": "Bolt Action Magic Wand",
+		"requiredTech": "Magical Ballistics",
 	},
 	// Dietary
 	{
