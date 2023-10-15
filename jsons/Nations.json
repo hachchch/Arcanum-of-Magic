@@ -23,7 +23,7 @@
 	{
 		"name": "Council of Kingdoms",
 		"leaderName": "Alexandros VI",
-		"adjective": ["Human"],
+		"adjective": ["Humans"],
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Time",
 
