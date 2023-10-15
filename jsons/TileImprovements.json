@@ -38,7 +38,7 @@
 		"name": "Super Entanglement Reactor",
 		"techRequired": "Darkmatter Exorcisting",
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Flood plains"],
-		"producion": 5,
+		"production": 5,
 		"uniques": ["Consumes [1] [Mana]"],
 		"turnsToBuild": 7,
 	},
