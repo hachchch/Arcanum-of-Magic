@@ -71,7 +71,7 @@
 		"cost": 80,
 		"requiredTech": "Spell Theory",
 		"attackSound": "metalhit",
-		"uniques": ["[+200]% Strength <when difending>"],
+		"uniques": ["[+200]% Strength <when defending>"],
 	},
 	{
 		"name": "Wander",
@@ -151,7 +151,7 @@
 		"cost": 80,
 		"requiredTech": "Spell Theory",
 		"attackSound": "metalhit",
-		"uniques": ["[+200]% Strength <when difending>"],
+		"uniques": ["[+200]% Strength <when defending>"],
 	},
 	{
 		"name": "Handy Fairy",
