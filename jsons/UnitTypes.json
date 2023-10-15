@@ -10,7 +10,7 @@
     },
     {
         "name": "Eude Fairy",
-        "uniques": ["[-10]% Strength <vs [Homo Sapiens] units> <when defending>","[+10]% Strength <vs [Dietary] units> <when attacking>"],
+        "uniques": ["All healing effects doubled","[-10]% Strength <vs [Homo Sapiens] units> <when defending>","[+10]% Strength <vs [Dietary] units> <when attacking>"],
         "movementType": "Land"
     },
     {
