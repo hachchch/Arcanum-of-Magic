@@ -183,8 +183,81 @@
 			{
 				"name": "Rifling",
 				"row": 9,
-				"prerequisites": ["Screw","Rotation Method"],
+				"prerequisites": ["Screw","Rotation Method","Engineering"],
 			}
+		]
+	},
+	{
+		"columnNumber": 6,
+		"era": "Reunion era",
+		"techCost": 485,
+		"buildingCost": 160,
+		"wonderCost": 400,
+		"techs": [
+			{
+				"name": "Cosmic Power",
+				"row": 1,
+				"prerequisites": ["Ptolemaic theory","Heliocentric Theory"],
+			},
+			{
+				"name": "Civil Politics",
+				"row": 6,
+				"prerequisites": ["Contract Management"],
+				"quote": "'I find the great thing in this world is not so much where we stand, as in what direction we are moving.' - Oliver Wendell Holmes"
+			},
+			{
+				"name": "Education",
+				"row": 3,
+				"prerequisites": ["Ptolemaic theory","Heliocentric Theory"],
+				"uniques": ["Enables conversion of city production to [Science]","Enables Research agreements"],
+				"quote": "'Education is the best provision for old age.' - Aristotle"
+			},
+			{
+				"name": "Efficient Market",
+				"row": 6,
+				"prerequisites": ["Contract Management"],
+				"uniques": ["Enables Defensive Pacts"],
+				"quote": "'Whoso pulleth out this sword of this stone and anvil, is rightwise king born of all England.' - Malory"
+			},
+			{
+				"name": "Machinery",
+				"row": 8,
+				"prerequisites": ["Contract Management","Engineering"],
+				"uniques": ["Improves movement speed on roads"],
+				"quote": "'The press is the best instrument for enlightening the mind of man, and improving him as a rational, moral and social being.' - Thomas Jefferson"
+			},
+			{
+				"name": "Physics",
+				"row": 9,
+				"prerequisites": ["Rifling"],
+				"quote": "'Measure what is measurable, and make measurable what is not so.' - Galileo Galilei"
+			},
+			{
+				"name": "Crystallography",
+				"row": 10,
+				"prerequisites": ["Rifling"],
+				"quote": "'John Henry said to his Captain, / 'A man ain't nothin' but a man, / And before I'll let your steam drill beat me down, / I'll die with the hammer in my hand.'' - Anonymous: The Ballad of John Henry, the Steel-Drivin' Man"
+			},
+		]
+	},
+	{
+		"columnNumber": 7,
+		"era": "Stereotype era",
+		"techCost": 780,
+		"buildingCost": 200,
+		"wonderCost": 500,
+		"techs": [
+			{
+				"name": "The Incandescent Light",
+				"row": 6,
+				"prerequisites": ["Crystallography","Physics","Machinery","Efficient Market","Education","Civil Politics","Cosmic Power"],
+				"quote": "The electricity was invented. Yes, we no longer need divine light.",
+			},
+			{
+				"name": "Magical Ballistics",
+				"row": 9,
+				"prerequisites": ["Crystallography","Physics","Machinery","Education","Cosmic Power"],	
+			},
 		]
 	},
 ]
