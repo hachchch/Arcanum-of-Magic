@@ -111,7 +111,7 @@ TileSets/FantasyHex/Units/Magin Gun
   index: -1
 TileSets/FantasyHex/Units/Dryad
   rotate: false
-  xy: 626, 680
+  xy: 626, 666
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
