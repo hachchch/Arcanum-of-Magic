@@ -43,7 +43,7 @@
 	},
 	{
 		"name": "Dryad",
-		"unitType": "",
+		"unitType": "Dietary",
 		"movement": 2,
 		"replaces": "Hero",
 		"uniqueTo": "Green States",
