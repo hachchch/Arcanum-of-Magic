@@ -179,6 +179,7 @@
 	},
 	{
 		"name": "Grassarm",
+		"uniqueTo": "Green States",
 		"replaces": "Lively Magician",
 		"requiredResource": "Mana",
 		"unitType": "Grass",
