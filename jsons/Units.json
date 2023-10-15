@@ -53,6 +53,9 @@
 		"cost": 40,
 		"attackSound": "metalhit",
 	},
+	{
+		"name": "",
+	},
 	// Dietary
 	{
 		"name": "Dryad",
