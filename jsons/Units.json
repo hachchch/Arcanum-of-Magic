@@ -267,6 +267,7 @@
 	{
 		"name": "Fairy Gunner",
 		"replaces": "Rifle Magician",
+		"uniqueTo": "Eucia",
 		"unitType": "Eude Fairy",
 		"movement": 2,
 		"range": 2,
@@ -329,6 +330,8 @@
 	{
 		"name": "Fairy Militia",
 		"unitType": "Eude Fairy",
+		"replaces": "Militia",
+		"uniqueTo": "Eucia",
 		"movement": 2,
 		"strength": 17,
 		"cost": 160,
