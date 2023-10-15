@@ -126,6 +126,12 @@
 				"quote": ""
 			},
 			{
+				"name": "Barium-Ion (MagicStone)",
+				"row": 6,
+				"prerequisites": ["Advanced Alchemy"],
+				"quote": "Yes,It's Power stone."
+			},
+			{
 				"name": "values Trick",
 				"row": 7,
 				"prerequisites": ["Axionity"],
@@ -147,5 +153,5 @@
 				"prerequisites": ["Rotation of Magic Circle"],
 			},
 		]
-	}
+	},
 ]
