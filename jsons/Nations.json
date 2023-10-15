@@ -5,11 +5,15 @@
 		"outerColor": [255,255,255]
 //		"innerColor": [255,255,255]
 	},
+	/*
 	{
 		// nations
 		//Nations
 		// Nations
 		//nations
+	},
+	*/
+	{
 		"name": "Council of Kingdoms",
 		"leaderName": "Alexandros VI",
 		"adjective": ["Human"],
