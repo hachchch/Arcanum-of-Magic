@@ -84,7 +84,6 @@
 		"attackSound": "shot",
 		"requiredTech": "Bolt Action Magic Wand",
 	},
-]
 	// Eude Fairy
 	{
 		"name": "Prelate",
@@ -180,7 +179,6 @@
 	{
 		"name": "Grassarm",
 		"replaces": "Lively Magician",
-		"requiredTech": "Axionity",
 		"requiredResource": "Mana",
 		"unitType": "Grass",
 		"movement": 2,
@@ -188,6 +186,7 @@
 		"cost": 80,
 		"attackSound": "nonmetalhit",
 	},
+]
 	{
 		"name": "Spearman",
 		"unitType": "Eude Fairy",
