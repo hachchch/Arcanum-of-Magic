@@ -21,7 +21,7 @@
 		"unitType": "Homo Sapiens",
 		"movement": 2,
 		"strength": 15,
-		"uniques" : ["[+1] Sight","Unbuildable","May withdraw before melee ([50]%)"],
+		"uniques" : ["[+1] Sight","Unbuildable","May withdraw before melee ([50]%)","Free [Hero] appears <upon being defeated>"],
 		"attackSound": "metalhit",
 	},
 	{
@@ -40,7 +40,7 @@
 		"replaces": "Hero",
 		"uniqueTo": "Eucia",
 		"strength": 15,
-		"uniques" : ["[+1] Sight","Unbuildable","May withdraw before melee ([50]%)"],
+		"uniques" : ["[+1] Sight","Unbuildable","May withdraw before melee ([50]%)","Free [Prelate] appears <upon being defeated>"],
 		"attackSound": "nonmetalhit",
 	},
 	{
@@ -61,7 +61,7 @@
 		"replaces": "Hero",
 		"uniqueTo": "Green States",
 		"strength": 15,
-		"uniques" : ["[+1] Sight","Unbuildable","May withdraw before melee ([50]%)"],
+		"uniques" : ["[+1] Sight","Unbuildable","May withdraw before melee ([50]%)","Free [Dryad] appears <upon being defeated>"],
 		"attackSound": "nonmetalhit",
 	},
 	{
