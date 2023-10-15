@@ -40,7 +40,7 @@
 		"replaces": "Hero",
 		"uniqueTo": "Eucia",
 		"strength": 15,
-		"uniques" : ["[+1] Sight","Unbuildable","May withdraw before melee ([50]%)","Free [Prelate] appears <upon being defeated>"],
+		"uniques" : ["[+1] Sight","Unbuildable","May withdraw before melee ([50]%)"],
 		"attackSound": "nonmetalhit",
 	},
 	{
