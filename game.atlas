@@ -223,14 +223,14 @@ TileSets/FantasyHex/Units/Fairy Volunteer
   index: -1
 TileSets/FantasyHex/Units/Worker-fairy
   rotate: false
-  xy: 626, 531
+  xy: 634, 523
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-fairy-Stereotype era
   rotate: false
-  xy: 626, 481
+  xy: 634, 473
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
