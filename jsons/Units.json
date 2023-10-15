@@ -43,6 +43,16 @@
 		"uniques" : ["[+1] Sight","Unbuildable","May withdraw before melee ([50]%)","[1] free [Prelate] units appear <upon being defeated>"],
 		"attackSound": "nonmetalhit",
 	},
+	{
+		"name": "Fairy",
+		"unitType": "Eude Fairy",
+		"replaces": "Longswordsman",
+		"uniqueTo": "Eucia",
+		"movement": 2,
+		"strength": 8,
+		"cost": 40,
+		"attackSound": "metalhit",
+	},
 	// Dietary
 	{
 		"name": "Dryad",
@@ -53,5 +63,15 @@
 		"strength": 15,
 		"uniques" : ["[+1] Sight","Unbuildable","May withdraw before melee ([50]%)","[1] free [Dryad] units appear <upon being defeated>"],
 		"attackSound": "nonmetalhit",
+	},
+	{
+		"name": "Spearman",
+		"unitType": "Eude Fairy",
+		"replaces": "Longswordsman",
+		"uniqueTo": "Green States",
+		"movement": 2,
+		"strength": 8,
+		"cost": 40,
+		"attackSound": "metalhit",
 	},
 ]
