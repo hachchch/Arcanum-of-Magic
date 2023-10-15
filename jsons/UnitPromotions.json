@@ -7,7 +7,7 @@
         },
 	{
 		"name": "Unit System",
-		"uniques": ["Heal this unit by [-90] HP"]
+		"uniques": ["Heal this unit by [-14] HP"]
 	},
         {
                 "name": "Dance of Fairy",
