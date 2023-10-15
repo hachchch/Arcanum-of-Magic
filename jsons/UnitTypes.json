@@ -1,0 +1,45 @@
+[
+    {
+        "name": "Civilian",
+        "movementType": "Land"
+    },
+    {
+        "name": "Homo Sapiens",
+        "uniques": ["[-10]% Strength <vs [Eude Fairy] units> <when defending>","[+10]% Strength <vs [Dietary] units> <when attacking>"],
+        "movementType": "Land"
+    },
+    {
+        "name": "Eude Fairy",
+        "uniques": ["[-10]% Strength <vs [Homo Sapiens] units> <when defending>","[+10]% Strength <vs [Dietary] units> <when attacking>"],
+        "movementType": "Land"
+    },
+    {
+        "name": "Dietary",
+        "uniques": ["[-10]% Strength <vs [Eude Fairy] units> <when defending>","[+10]% Strength <vs [Homo Sapiens] units> <when attacking>"],
+        "movementType": "Land"
+    },
+    {
+        "name": "Fire",
+        "uniques": ["[-25]% Strength <vs [Water] units>","[+25]% Strength <vs [Grass] units>"],
+        "movementType": "Land"
+    },
+    {
+        "name": "Water",
+        "uniques": ["[-25]% Strength <vs [Grass] units>","[+25]% Strength <vs [Fire] units>"],
+        "movementType": "Land"
+    },
+    {
+        "name": "Grass",
+        "uniques": ["[-25]% Strength <vs [Fire] units>","[+25]% Strength <vs [Water] units>"],
+        "movementType": "Land"
+    },
+    {
+        "name": "Special",
+        "uniques": ["[+100]% Strength <vs [All] units> <with [10]% chance>","[+30]% Strength <vs cities>"],
+        "movementType": "Land"
+    },
+    {
+        "name": "Glucose",
+        "movementType": "Land"
+    },
+]
