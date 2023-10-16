@@ -47,7 +47,7 @@
 	{
 		"name": "Extra Dimension Portal",
 		"techRequired": "Dimention of Tangent",
-		"terrainsCanBeBuiltOn": ["Forest","Jungle","Hill","Tundra","Snow"],
+		"terrainsCanBeBuiltOn": ["Forest","Jungle","Hill","Tundra","Snow","Marsh"],
 		"science": 3,
 		"uniques": ["Consumes [1] [Mana]","[+1 Science] <after discovering [Engineering]>","Pillaging this improvement yields approximately [+18 Gold, +18 Science]"],
 		"turnsToBuild": 7,
@@ -55,7 +55,7 @@
 	{
 		"name": "Unial Plant",
 		"techRequired": "Magiclear Powers",
-		"terrainsCanBeBuiltOn": ["Oasis"],
+		"terrainsCanBeBuiltOn": ["Oasis","Radioactive Chaos"],
 		"food": 4,
 		"production": 5,
 		"uniques": ["[+3 Production] <when at war>","[+2 Production] <after discovering [Screw]>","[+2 Food] <after discovering [Advanced Alchemy]>","Pillaging this improvement yields approximately [+81 Gold]"],
