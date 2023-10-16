@@ -58,7 +58,7 @@
 		"terrainsCanBeBuiltOn": ["Oasis"],
 		"food": 4,
 		"production": 5,
-		"uniques": ["[+3 Production] <when at war>","[+2 Production] <after discovering [Screw]>","Pillaging this improvement yields approximately [+81 Gold]"],
+		"uniques": ["[+3 Production] <when at war>","[+2 Production] <after discovering [Screw]>","[+2 Food] <after discovering [Advanced Alchemy]>","Pillaging this improvement yields approximately [+81 Gold]"],
 		"turnsToBuild": 7,
 	},
 	        // Resource-specific
