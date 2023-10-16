@@ -114,7 +114,7 @@
 	{
 		"name": "City ruins",
 		"terrainsCanBeBuiltOn": ["Land"],
-		"uniques": ["Unpillagable", "Unbuildable", "Will be replaced by automated workers"],
+		"uniques": ["Unpillagable", "Unbuildable", "Will be replaced by automated workers","[+5 Faith] <after discovering [Magical Apostrophe]>"],
         "civilopediaText": [{"text":"A bleak reminder of the destruction wreaked by War"}]
 	},
 	{
