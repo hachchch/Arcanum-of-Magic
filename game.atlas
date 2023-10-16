@@ -46,6 +46,13 @@ TileSets/FantasyHex/Tiles/Radioactive Chaos
   orig: 32, 28
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Plains+Radioactive Chaos+Unial Plant
+  rotate: false
+  xy: 806, 1050
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Tiles/Magnetic Powers
   rotate: false
   xy: 556, 681
