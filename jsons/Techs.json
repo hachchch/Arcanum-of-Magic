@@ -123,7 +123,7 @@
 			{
 				"name": "Magical Apostrophe",
 				"row": 3,
-				"prerequisites": ["Advanced Alchemy","Dimention of Tangent","Spell Theory","Darkmatter Exorcisting"],
+				"prerequisites": ["Advanced Alchemy","Dimention of Tangent","Darkmatter Exorcisting"],
 				"quote": ""
 			},
 			{
