@@ -284,3 +284,101 @@ TileSets/FantasyHex/Units/Wasserleute
   orig: 32, 28
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Volunteer Fairy
+  rotate: false
+  xy: 626, 523
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Burner Fairy
+  rotate: false
+  xy: 626, 473
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Sprinkler Fairy
+  rotate: false
+  xy: 576, 473
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Vacuum Fairy
+  rotate: false
+  xy: 576, 523
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Grass Gun Lance
+  rotate: false
+  xy: 826, 680
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+  TileSets/FantasyHex/Units/Militia
+  rotate: false
+  xy: 576, 780
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Volunteer
+  rotate: false
+  xy: 576, 730
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Burner
+  rotate: false
+  xy: 576, 830
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Sprinkler
+  rotate: false
+  xy: 576, 880
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Vacuumer
+  rotate: false
+  xy: 526, 880
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Uranus Magician
+  rotate: false
+  xy: 626, 880
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Nebula IV
+  rotate: false
+  xy: 676, 880
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Mars Magician
+  rotate: false
+  xy: 626, 830
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Earth Magician
+  rotate: false
+  xy: 676, 830
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
