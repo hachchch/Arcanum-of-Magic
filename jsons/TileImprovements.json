@@ -23,14 +23,16 @@
 		"name": "Temple of Radium",
 		"techRequired": "Grimoire of Relativity",
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Flood plains"],
-		"producion": 2,
-		"uniques": ["Provides [1] [Mana]"]
+		"culture": 2,
+		"faith": 2,
+		"uniques": ["Provides [1] [Mana]","Pillaging this improvement yields approximately [+10 Culture, +22 Gold]"]
 		"turnsToBuild": 7,
 	},
 	{
 		"name": "Dark Roam Farm",
 		"techRequired": "Advanced Alchemy",
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Flood plains"],
+		"uniques": ["Pillaging this improvement yields approximately [+16 Gold]"],
 		"food": 1,
 		"turnsToBuild": 7,
 	},
@@ -39,7 +41,7 @@
 		"techRequired": "Darkmatter Exorcisting",
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Flood plains"],
 		"production": 3,
-		"uniques": ["Consumes [1] [Mana]"],
+		"uniques": ["Consumes [1] [Mana]","Pillaging this improvement yields approximately [+35 Gold]"],
 		"turnsToBuild": 7,
 	},
 	{
@@ -47,7 +49,7 @@
 		"techRequired": "Dimention of Tangent",
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Flood plains"],
 		"science": 3,
-		"uniques": ["Consumes [1] [Mana]"],
+		"uniques": ["Consumes [1] [Mana]","Pillaging this improvement yields approximately [+18 Gold, +18 Science]"],
 		"turnsToBuild": 7,
 	},
 	{
@@ -56,7 +58,7 @@
 		"terrainsCanBeBuiltOn": ["Oasis"],
 		"food": 4,
 		"production": 5,
-		"uniques": ["[+3 Production] <when at war>"],
+		"uniques": ["[+3 Production] <when at war>","Pillaging this improvement yields approximately [+81 Gold]"],
 		"turnsToBuild": 7,
 	},
 	        // Resource-specific
