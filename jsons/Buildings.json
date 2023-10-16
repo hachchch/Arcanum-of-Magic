@@ -31,8 +31,8 @@
 		"name": "Sun Reactor",
 		"requiredTech": "Mana Amplifier",
 		"cost": 80,
-		"production": 1,
-		"uniques": ["[+13]% [Production] <when above [20] Happiness>"],
+		"production": 4,
+		"uniques": ["[+13]% [Production] <when between [20] and [150] Happiness>"],
 	},
 	{
 		"name": "Moonlight Reactor",
