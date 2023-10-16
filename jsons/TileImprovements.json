@@ -34,7 +34,7 @@
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Flood plains"],
 		"uniques": ["Pillaging this improvement yields approximately [+16 Gold]"],
 		"food": 1,
-		"turnsToBuild": 7,
+		"turnsToBuild": 4,
 	},
 	{
 		"name": "Super Entanglement Reactor",
