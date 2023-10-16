@@ -19,11 +19,13 @@
 		"name": "System2",
 		"cityStrength": -20,
 		"cost": 1,
+		"uniques": ["Unbuildable"]
 	},
 	{
 		"name": "System3",
 		"cityStrength": -55,
 		"cost": 1,
+		"uniques": ["Unbuildable"]
 	},
 	{
 		"name": "Sun Reactor",
