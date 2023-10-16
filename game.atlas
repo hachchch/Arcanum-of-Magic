@@ -39,6 +39,13 @@ TileSets/FantasyHex/Tiles/Eiced Trees
   orig: 32, 38
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Dark Roam Farm
+  rotate: false
+  xy: 656, 1090
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Tiles/Radioactive Chaos
   rotate: false
   xy: 806, 1050
