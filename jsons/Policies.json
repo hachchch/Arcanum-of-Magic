@@ -138,7 +138,7 @@
                 "uniques": [
                     "[+1] Movement <for [{Military} {Water}] units>",
                     "[+1] Sight <for [{Military} {Water}] units>",
-                    "Free [Great General] appears"
+                    "Free [Hero] appears"
                     // "[+2] Movement <for [Great Admiral] units>"
                     // ToDo: Should be "Free [Great Admiral] appears"
                 ],
@@ -402,6 +402,7 @@
             {
                 "name": "United Front",
                 "uniques": [
+                    "Free [Hero] appears",
                     "Militaristic City-States grant units [2] times as fast when you are at war with a common nation"
                 ],
                 "row": 1,
@@ -419,6 +420,7 @@
             {
                 "name": "Nationalism",
                 "uniques": [
+                    "[+20]% Strength <for [All] units> <when adjacent to a [Hero] unit>",
                     "[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>"
                 ],
                 "row": 1,
@@ -438,7 +440,7 @@
                 "requires": ["Socialism"],
                 "uniques": [
                     "[+2 Production] [in all cities]",
-                    "[+1 Production] from every [Mine]",
+                    "[+1 Production] from every [Super Entanglement Reactor]",
                     "[+1 Production] from every [Quarry]"
                 ],
                 "row": 3,
@@ -448,7 +450,7 @@
                 "name": "Order Complete",
                 "uniques": [
                     "[+2 Food, +2 Production, +2 Science, +2 Gold, +2 Culture] [in all cities]",
-                    "May buy [Great Engineer] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
+                    "May buy [Hero] units for [1000] [Faith] [in all cities]"
                 ]
             }
         ]
