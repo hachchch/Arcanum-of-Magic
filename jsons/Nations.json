@@ -97,10 +97,7 @@
 
 		"outerColor": [27,53,63],
 		"innerColor": [213,249,255],
-		"cities": ["Babylon","Akkad","Dur-Kurigalzu","Nippur","Borsippa","Sippar","Opis","Mari","Shushan","Eshnunna",
-			"Ellasar","Erech","Kutha","Sirpurla","Neribtum","Ashur","Ninveh","Nimrud","Arbela","Nuzi",
-			"Arrapkha","Tutub","Shaduppum","Rapiqum","Mashkan Shapir","Tuttul","Ramad","Ana","Haradum","Agrab",
-			"Uqair","Gubba","Hafriyat","Nagar","Shubat Enlil","Urhai","Urkesh","Awan","Riblah","Tayma"],
+		"cities": ["Vojaĝo2","Manpremo","Tumulto","Mariskoj","Freon-So","Driva Glacikampo","Industria","Tutmonda Varmiĝo","Purestick Besto"],
 	},
 	{
 		"name": "Eucia",
@@ -125,6 +122,32 @@
 		"style": "fairy",
 		"outerColor": [84,123,38],
 		"innerColor": [238,239,176],
+		"cities": ["Eden","Arcadia","Campanella","Mondo","Kvadrato","Kvantuma","Kampo","Mi Faras","Apero"],
+	},
+	{
+		"name": "Spirit Alliance",
+		"leaderName": "Lutho",
+		"adjective": ["Spirit"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Time",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "The demon wants the blood of soldiers!",
+		"attacked": "Oh well, I presume you know what you're doing.",
+		"defeated": "It is over. Perhaps now I shall have peace, at last.",
+		"introduction": "Are you real or a phantom?",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+
+		"outerColor": [72,65,169],
+		"innerColor": [249,249,255],
+		"uniqueName": "Spirit Race",
+		"uniques": ["[-50]% [Science]","May capture killed [All] units <for [All] units>"],
 		"cities": ["Babylon","Akkad","Dur-Kurigalzu","Nippur","Borsippa","Sippar","Opis","Mari","Shushan","Eshnunna",
 			"Ellasar","Erech","Kutha","Sirpurla","Neribtum","Ashur","Ninveh","Nimrud","Arbela","Nuzi",
 			"Arrapkha","Tutub","Shaduppum","Rapiqum","Mashkan Shapir","Tuttul","Ramad","Ana","Haradum","Agrab",
@@ -132,7 +155,7 @@
 	},
 	// City-States sorted by cityStateType, name
 	{
-		"name": "Brussels",
+		"name": "Village",
 		"adjective": ["Bruxellois"],
 		"cityStateType": "Cultured",
 
@@ -141,6 +164,6 @@
 		"defeated": "I guess you weren't here for the sprouts after all...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [153,255,51],
-		"cities": ["Brussels"]
+		"cities": ["Village"]
 	},
 ]
