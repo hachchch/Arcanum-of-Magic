@@ -9,18 +9,11 @@
             "Domination": 10,
             "Scientific": 0
         },
-        "uniques": [
-            "[+100]% Production when constructing [Shrine] buildings [in all cities]",
-            "[+100]% Production when constructing [Temple] buildings [in all cities]",
-            "Only available <before adopting [Rationalism]>"
-        ],
+        "uniques": ["[+10]% [Faith]"],
         "policies": [
             {
                 "name": "Organized Religion",
-                "uniques": [
-                    "[+1 Faith] from every [Shrine]",
-                    "[+1 Faith] from every [Temple]"
-                ],
+                "uniques": ["[+10]% [Faith]"],
                 "row": 1,
                 "column": 2
             },
@@ -32,7 +25,7 @@
             },
             {
                 "name": "Theocracy",
-                "uniques": ["[+10]% [Gold] from every [Temple]"],
+                "uniques": ["[+10]% [Faith]"],
                 "requires": ["Organized Religion"],
                 "row": 2,
                 "column": 1
@@ -58,7 +51,7 @@
                 "name": "Piety Complete",
                 "uniques": [
                     "[Faith] cost of purchasing items in cities [-20]%",
-                    "[+3 Gold, +3 Culture] from every [Holy site]"
+                    "[+3 Gold, +3 Culture] from every [Temple of Radium]"
                 ]
             }
         ]
@@ -156,8 +149,7 @@
                 "name": "Trade Unions",
                 "uniques": [
                     "[-33]% maintenance on road & railroads",
-                    "[+1 Gold] from every [Harbor]",
-                    "[+1 Gold] from every [Seaport]"
+                    "[+10]% [Gold]"
                 ],
                 "row": 1,
                 "column": 4
@@ -173,10 +165,7 @@
                 "name": "Mercantilism",
                 "uniques": [
                     "[Gold] cost of purchasing items in cities [-25]%",
-                    "[+1 Science] from every [Mint]",
-                    "[+1 Science] from every [Market]",
-                    "[+1 Science] from every [Bank]",
-                    "[+1 Science] from every [Stock Exchange]"
+                    "[+10]% [Gold]"
                 ],
                 "requires": ["Trade Unions"],
                 "row": 2,
@@ -192,9 +181,9 @@
             {
                 "name": "Commerce Complete",
                 "uniques": [
-                    "[+1 Gold] from every [Trading post]",
+                    "[+1 Gold] from every [City center]",
                     "[+100]% Gold from Great Merchant trade missions",
-                    "May buy [Great Merchant] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
+                    "May buy [Hero] units for [1000] [Gold] [in all cities]"
                 ]
             }
         ]
@@ -225,9 +214,7 @@
             {
                 "name": "Humanism",
                 "uniques": [
-                    "[+1 Happiness] from every [University]",
-                    "[+1 Happiness] from every [Observatory]",
-                    "[+1 Happiness] from every [Public School]"
+                    "[+1 Happiness] from all [Science] buildings"
                 ],
                 "row": 1,
                 "column": 4
@@ -235,8 +222,8 @@
             {
                 "name": "Free Thought",
                 "uniques": [
-                    "[+1 Science] from every [Trading post]",
-                    "[+17]% [Science] from every [University]"
+                    "[+1 Science] from every [Extra Dimension Portal]",
+                    "[+17]% [Science] from every [Science]"
                 ],
                 "requires": ["Secularism"],
                 "row": 2,
@@ -260,7 +247,7 @@
                 "name": "Rationalism Complete",
                 "uniques": [
                     "[2] Free Technologies",
-                    "May buy [Great Scientist] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
+                    "May buy [Hero] units for [1000] [Science] [in all cities]"
                 ]
             }
         ]
@@ -322,7 +309,7 @@
                 "uniques": [
                     "[+100]% Yield from every [Great Improvement]",
                     "[+50]% Golden Age length",
-                    "May buy [Great Artist] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
+                    "May buy [Hero] units for [500] [Culture] [in all cities]"
                 ]
             }
         ]
@@ -346,7 +333,8 @@
         "policies": [
             {
                 "name": "Populism",
-                "uniques": ["[+25]% Strength <for [Wounded] units>"],
+                "uniques": ["[+25]% Strength <for [Wounded] units>",
+                    "[+25]% Strength <for [Hero] units>"],
                 "row": 1,
                 "column": 2
             },
@@ -360,7 +348,7 @@
                 "name": "Fascism",
                 "uniques": [
                     "Quantity of strategic resources produced by the empire +[100]%",
-                    "[+2] Movement <for [Great General] units>"
+                    "[+2] Movement <for [Hero] units>"
                 ],
                 "requires": ["Populism", "Militarism"],
                 "row": 2,
@@ -369,8 +357,7 @@
             {
                 "name": "Police State",
                 "uniques": [
-                    "[+3 Happiness] from every [Courthouse]",
-                    "[+100]% Production when constructing [Courthouse] buildings [in all cities]"
+                    "[+1 Happiness] from every [Production]","[-1 Happiness] from every [Culture]","[-1 Happiness] from every [Science]","[+1 Happiness] from every [Gold]"
                 ],
                 // There are also some uniques regarding espoinage, which as of this writing is not yet implemented
                 "requires": ["Militarism"],
@@ -380,7 +367,7 @@
             {
                 "name": "Total War",
                 "uniques": [
-                    "[+25]% Production when constructing [Military] units [in all cities]",
+                    "[+25]% Production when constructing [Ranged] units [in all cities]",
                     "New [Military] units start with [15] Experience [in all cities]"
                 ],
                 "requires": ["Police State", "Fascism"],
@@ -390,8 +377,8 @@
             {
                 "name": "Autocracy Complete",
                 "uniques": [
-                    "[+25]% Strength <when attacking> <for [Military] units> <for [50] turns>",
-                    "May buy [Great General] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>",
+                    "[+25]% Strength <when attacking> <for [Ranged] units> <for [50] turns>",
+                    "[+100]% Strength <for [Hero] units>",
                 ]
             }
         ]
