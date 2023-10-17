@@ -102,6 +102,13 @@ TileSets/FantasyHex/Units/Wander
   orig: 32, 28
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Rifle Magician
+  rotate: false
+  xy: 726, 830
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Hero
   rotate: false
   xy: 726, 730
