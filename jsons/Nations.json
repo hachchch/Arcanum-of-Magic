@@ -151,8 +151,8 @@
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 
-		"outerColor": [72,65,169],
-		"innerColor": [249,249,255],
+		"outerColor": [72,65,259],
+		"innerColor": [93,249,255],
 		"uniqueName": "Spirit Race",
 		"uniques": ["[-50]% [Science]","[Military] units gain the [Mental Invade] promotion"],
 		"cities": ["Babylon","Akkad","Dur-Kurigalzu","Nippur","Borsippa","Sippar","Opis","Mari","Shushan","Eshnunna",
