@@ -154,7 +154,7 @@
 		"outerColor": [72,65,169],
 		"innerColor": [249,249,255],
 		"uniqueName": "Spirit Race",
-		"uniques": ["[-50]% [Science]","May capture killed [All] units <for [Military] units>"],
+		"uniques": ["[-50]% [Science]","[Military] units gain the [Mental Invade] promotion"],
 		"cities": ["Babylon","Akkad","Dur-Kurigalzu","Nippur","Borsippa","Sippar","Opis","Mari","Shushan","Eshnunna",
 			"Ellasar","Erech","Kutha","Sirpurla","Neribtum","Ashur","Ninveh","Nimrud","Arbela","Nuzi",
 			"Arrapkha","Tutub","Shaduppum","Rapiqum","Mashkan Shapir","Tuttul","Ramad","Ana","Haradum","Agrab",
