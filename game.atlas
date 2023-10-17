@@ -286,7 +286,7 @@ TileSets/FantasyHex/Units/Bug Fairy
   index: -1
 TileSets/FantasyHex/Units/Wasserleute
   rotate: false
-  xy: 776, 523
+  xy: 726, 523
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
