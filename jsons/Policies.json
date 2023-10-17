@@ -51,7 +51,7 @@
                 "name": "Piety Complete",
                 "uniques": [
                     "[Faith] cost of purchasing items in cities [-20]%",
-                    "[+3 Gold, +3 Culture] from every [Temple of Radium]"
+                    "[+1 Faith, +1 Culture] from every [Temple of Radium]"
                 ]
             }
         ]
