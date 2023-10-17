@@ -8,7 +8,7 @@
 	},
         {
                 "name": "Dance of Fairy",
-                "uniques": ["Heal this unit by [20] HP <upon being promoted>"],
+                "uniques": ["All healing effects doubled"],
                 "row": 1,
 		"unitTypes": ["Eude Fairy"],
                 "column": 0
@@ -21,21 +21,23 @@
                 "column": 0
         },
         {
-                "name": "Anti-Electron Magic",
+                "name": "Friend Forest",
+		"unitTypes": ["Grass","Dietary"],
                 "uniques": ["Double movement in [Forest]","Double movement in [Jungle]"],
                 "row": 3,
                 "column": 0
         },
         {
-                "name": "Electron Magic",
+                "name": "Through the Alps",
+		"unitTypes": ["Homo Sapiens"],
                 "uniques": ["Double movement in [Hill]"],
                 "row": 5,
                 "column": 0
         },
         {
-                "name": "Vacuum Magic",
-		"prerequisites": ["Anti-Electron Magic","Electron Magic"],
-                "uniques": ["Invisible to others"],
+                "name": "Carnitine Fire",
+		"unitTypes": ["Fire"],
+                "uniques": ["[+15]% Strength <vs [Wounded] units>"],
                 "row": 4,
                 "column": 0
         },
