@@ -40,6 +40,10 @@
                 "column": 0
         },
 	{
+		"name": "Mental Invade",
+		"uniques": ["May capture killed [All] units <for [Military] units>"]
+	},
+	{
 		"name": "Rejuvenation", // only for Units that have been close to Natural Wonder Fountain of Youth
 		"uniques": ["All healing effects doubled"]
 	},
