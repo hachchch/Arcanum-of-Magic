@@ -28,6 +28,13 @@
 		"uniques": ["Unbuildable"]
 	},
 	{
+		"name": "Magic Library",
+		"cost": 100,
+		"requiredTech": "Mana Amplifier",
+		"science": 1,
+		"uniques": ["Provides [1] [Mana] <upon declaring war with a major Civilization>"],
+	},
+	{
 		"name": "Sun Reactor",
 		"requiredTech": "Mana Amplifier",
 		"cost": 80,
