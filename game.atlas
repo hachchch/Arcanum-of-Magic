@@ -300,21 +300,21 @@ TileSets/FantasyHex/Units/Volunteer Fairy
   index: -1
 TileSets/FantasyHex/Units/Burner Fairy
   rotate: false
-  xy: 626, 473
+  xy: 576, 473
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Sprinkler Fairy
   rotate: false
-  xy: 576, 473
+  xy: 526, 473
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Vacuum Fairy
   rotate: false
-  xy: 576, 523
+  xy: 526, 523
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
