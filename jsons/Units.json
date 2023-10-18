@@ -503,7 +503,7 @@
 		"[-70]% Strength <vs [Grass] units>",
 		"[-70]% Strength <vs [Fire] units>"],
 	},
-	// Spirits
+	// Humanoid Spirit
 	{
 		"name": "Iron Maiden",
 		"unitType": "Humanoid Spirit",
