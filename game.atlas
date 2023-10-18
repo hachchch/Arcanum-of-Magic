@@ -389,3 +389,10 @@ TileSets/FantasyHex/Units/Earth Magician
   orig: 32, 28
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Iron Maiden
+  rotate: false
+  xy: 926, 780
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
