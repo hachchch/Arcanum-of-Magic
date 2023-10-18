@@ -396,3 +396,80 @@ TileSets/FantasyHex/Units/Iron Maiden
   orig: 32, 28
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Ghoul
+  rotate: false
+  xy: 876, 774
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Volunteer of Forest
+  rotate: false
+  xy: 876, 724
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Estate
+  rotate: false
+  xy: 826, 724
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Akvotubo
+  rotate: false
+  xy: 826, 574
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Forest Blaze
+  rotate: false
+  xy: 876, 574
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Hamadryas
+  rotate: false
+  xy: 826, 524
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Ocean Mage
+  rotate: false
+  xy: 826, 624
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Grass Gunner
+  rotate: false
+  xy: 876, 674
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Summer Needle
+  rotate: false
+  xy: 926, 674
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Magma Mage
+  rotate: false
+  xy: 876, 624
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Uncanny Plants
+  rotate: false
+  xy: 926, 624
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
