@@ -43,7 +43,7 @@
         },
 	{
 		"name": "Mental Invade",
-		"uniques": ["May capture killed [All] units <for [Military] units>"]
+		"uniques": ["May capture killed [Eude Fairy] units <for [Military] units> <with [100]% chance>","May capture killed [Homo Sapiens] units <for [Military] units> <with [50]% chance>","[+30]% Strength <vs [Rifle Magician] units>","[+30]% Strength <vs [Magin Gun] units>","[+25]% Strength <vs [Homo Sapiens] units>"]
 	},
 	{
 		"name": "Rejuvenation", // only for Units that have been close to Natural Wonder Fountain of Youth
