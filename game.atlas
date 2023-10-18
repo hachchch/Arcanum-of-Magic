@@ -146,14 +146,14 @@ TileSets/FantasyHex/Units/Dragon
   index: -1
 TileSets/FantasyHex/Units/Spearman
   rotate: false
-  xy: 726, 680
+  xy: 726, 675
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Grassarm
   rotate: false
-  xy: 776, 680
+  xy: 776, 675
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -391,84 +391,84 @@ TileSets/FantasyHex/Units/Earth Magician
   index: -1
 TileSets/FantasyHex/Units/Iron Maiden
   rotate: false
-  xy: 926, 774
+  xy: 926, 775
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Ghoul
   rotate: false
-  xy: 876, 774
+  xy: 876, 775
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Volunteer of Forest
   rotate: false
-  xy: 876, 724
+  xy: 876, 725
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Estate
   rotate: false
-  xy: 826, 724
+  xy: 826, 725
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Akvotubo
   rotate: false
-  xy: 826, 574
+  xy: 826, 575
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Forest Blaze
   rotate: false
-  xy: 876, 574
+  xy: 876, 575
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Hamadryas
   rotate: false
-  xy: 826, 524
+  xy: 826, 525
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Ocean Mage
   rotate: false
-  xy: 826, 624
+  xy: 826, 625
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Grass Gunner
   rotate: false
-  xy: 876, 674
+  xy: 876, 675
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Summer Needle
   rotate: false
-  xy: 926, 674
+  xy: 926, 675
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Magma Mage
   rotate: false
-  xy: 876, 624
+  xy: 876, 625
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Uncanny Plants
   rotate: false
-  xy: 926, 624
+  xy: 926, 625
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
