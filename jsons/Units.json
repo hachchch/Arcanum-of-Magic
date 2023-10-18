@@ -19,6 +19,7 @@
 	// Homo Sapiens
 	{
 		"name": "Hero",
+		"cost": "1000",
 		"unitType": "Homo Sapiens",
 		"movement": 2,
 		"strength": 15,
