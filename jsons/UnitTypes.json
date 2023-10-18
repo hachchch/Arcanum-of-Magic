@@ -19,6 +19,11 @@
         "movementType": "Land"
     },
     {
+        "name": "Humanoid Spirit",
+        "uniques": ["Invisible to non-adjacent units","Ignores terrain cost","Ignores Zone of Control"],
+        "movementType": "Land"
+    },
+    {
         "name": "Fire",
         "uniques": ["[-25]% Strength <vs [Water] units>","[+25]% Strength <vs [Grass] units>"],
         "movementType": "Land"
