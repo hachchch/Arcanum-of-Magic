@@ -503,4 +503,15 @@
 		"[-70]% Strength <vs [Grass] units>",
 		"[-70]% Strength <vs [Fire] units>"],
 	},
+	// Spirits
+	{
+		"name": "Iron Maiden",
+		"unitType": "Humanoid Spirit",
+		"movement": 2,
+		"replaces": "Hero",
+		"uniqueTo": "Spirit Alliance",
+		"strength": 30,
+		"uniques" : ["Unbuildable","May withdraw before melee ([100]%)"],
+		"attackSound": "metalhit",
+	},
 ]
