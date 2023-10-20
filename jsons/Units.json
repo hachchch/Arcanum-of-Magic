@@ -678,6 +678,7 @@
 		"upgradesTo": "Humant",
 		"requiredTech": "Paleo Magiculture",
 		"obsoleteTech": "Axionity",
+		"replaces": "Heroic Magician",
 		"uniques": ["Never appears as a Barbarian unit"]
 	},
 	{
@@ -688,6 +689,7 @@
 		"strength": 15,
 		"requiredTech": "Axionity",
 		"attackSound": "arrow",
+		"replaces": "Mars Magician",
 		"uniques": ["Unbuildable","Never appears as a Barbarian unit"]
 	},
 	{
@@ -699,6 +701,7 @@
 		"upgradesTo": "Fairant",
 		"obsoleteTech": "Axionity",
 		"requiredTech": "Paleo Magiculture",
+		"replaces": "Aqueous Magician",
 		"uniques": ["Never appears as a Barbarian unit"]
 	},
 	{
@@ -709,6 +712,7 @@
 		"strength": 15,
 		"requiredTech": "Axionity",
 		"attackSound": "arrow",
+		"replaces": "Uranus Magician",
 		"uniques": ["Unbuildable","Never appears as a Barbarian unit"]
 	},
 	{
@@ -720,6 +724,7 @@
 		"upgradesTo": "Chlorophyllant",
 		"obsoleteTech": "Axionity",
 		"requiredTech": "Paleo Magiculture",
+		"replaces": "Lively Magician",
 		"uniques": ["Never appears as a Barbarian unit"]
 	},
 	{
@@ -730,6 +735,7 @@
 		"strength": 15,
 		"requiredTech": "Axionity",
 		"attackSound": "arrow",
+		"replaces": "Earth Magician",
 		"uniques": ["Unbuildable","Never appears as a Barbarian unit"]
 	},
 	{
