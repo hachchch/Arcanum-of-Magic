@@ -805,6 +805,6 @@
 		"cost": 200,
 		"requiredTech": "Contract Management",
 		"attackSound": "shot",
-		"uniques": ["[-48]% Strength <before discovering [Rifling]>"],
+		"uniques": ["[-20]% Strength <before discovering [Rifling]>"],
 	},
 ]
