@@ -5,17 +5,17 @@
     },
     {
         "name": "Homo Sapiens",
-        "uniques": ["[-10]% Strength <vs [Eude Fairy] units> <when defending>","[+10]% Strength <vs [Dietary] units> <when attacking>"],
+        "uniques": ["[+10]% Strength <vs [Grass] units> <when attacking>","[-10]% Strength <vs [Fire] units> <when defending>","[-10]% Strength <vs [Eude Fairy] units> <when defending>","[+10]% Strength <vs [Dietary] units> <when attacking>"],
         "movementType": "Land"
     },
     {
         "name": "Eude Fairy",
-        "uniques": ["[-10]% Strength <vs [Homo Sapiens] units> <when defending>","[+10]% Strength <vs [Dietary] units> <when attacking>"],
+        "uniques": ["[+10]% Strength <vs [Grass] units> <when defending>","[-10]% Strength <vs [Fire] units> <when attacking>","[-10]% Strength <vs [Homo Sapiens] units> <when defending>","[+10]% Strength <vs [Dietary] units> <when attacking>"],
         "movementType": "Land"
     },
     {
         "name": "Dietary",
-        "uniques": ["[-10]% Strength <vs [Eude Fairy] units> <when defending>","[+10]% Strength <vs [Homo Sapiens] units> <when attacking>"],
+        "uniques": ["[+20]% Strength <vs [Grass] units> <when defending>","[+10]% Strength <vs [Water] units> <when defending>","[-20]% Strength <vs [Fire] units> <when defending>","[-10]% Strength <vs [Eude Fairy] units> <when defending>","[+10]% Strength <vs [Homo Sapiens] units> <when attacking>"],
         "movementType": "Land"
     },
     {
@@ -25,7 +25,7 @@
     },
     {
         "name": "Hymenoptera",
-        "uniques": ["[-33]% Strength <vs [Water] units> <when defending>","[+33]% Strength <vs [Water] units> <when attacking>"],
+        "uniques": ["[-20]% Strength <vs [Water] units> <when defending>","[+10]% Strength <vs [Grass] units> <when defending>","[+20]% Strength <vs [Fire] units> <when defending>"],
         "movementType": "Land"
     },
     {
