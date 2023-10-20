@@ -675,6 +675,7 @@
 		"movement": 2,
 		"strength": 8,
 		"upgradesTo": "Humant",
+		"requiredTech": "Paleo Magiculture",
 		"obsoleteTech": "Axionity",
 		"uniques" : ["Unbuildable"]
 	},
@@ -694,6 +695,7 @@
 		"strength": 8,
 		"upgradesTo": "Fairant",
 		"obsoleteTech": "Axionity",
+		"requiredTech": "Paleo Magiculture",
 		"uniques" : ["Unbuildable"]
 	},
 	{
@@ -712,6 +714,7 @@
 		"strength": 8,
 		"upgradesTo": "Chlorophyllant",
 		"obsoleteTech": "Axionity",
+		"requiredTech": "Paleo Magiculture",
 		"uniques" : ["Unbuildable"]
 	},
 	{
