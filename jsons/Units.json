@@ -675,6 +675,7 @@
 		"movement": 2,
 		"strength": 8,
 		"upgradesTo": "Humant",
+		"obsoleteTech": "Axionity",
 		"uniques" : ["Unbuildable"]
 	},
 	{
@@ -692,6 +693,7 @@
 		"movement": 2,
 		"strength": 8,
 		"upgradesTo": "Fairant",
+		"obsoleteTech": "Axionity",
 		"uniques" : ["Unbuildable"]
 	},
 	{
@@ -709,6 +711,7 @@
 		"movement": 2,
 		"strength": 8,
 		"upgradesTo": "Chlorophyllant",
+		"obsoleteTech": "Axionity",
 		"uniques" : ["Unbuildable"]
 	},
 	{
