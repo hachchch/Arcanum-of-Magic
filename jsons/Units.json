@@ -683,6 +683,7 @@
 		"movement": 2,
 		"strength": 15,
 		"uniques" : ["Unbuildable"],
+		"requiredTech": "Axionity",
 		"attackSound": "arrow",
 	},
 	{
@@ -698,6 +699,7 @@
 		"unitType": "Water",
 		"movement": 2,
 		"strength": 15,
+		"requiredTech": "Axionity",
 		"uniques" : ["Unbuildable"],
 		"attackSound": "arrow",
 	},
@@ -715,6 +717,7 @@
 		"movement": 2,
 		"strength": 15,
 		"uniques" : ["Unbuildable"],
+		"requiredTech": "Axionity",
 		"attackSound": "arrow",
 	},
 	{
