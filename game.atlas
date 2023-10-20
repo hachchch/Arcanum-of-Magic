@@ -482,9 +482,9 @@ TileSets/FantasyHex/Units/Worker-hymenoptera
   index: -1
 TileSets/FantasyHex/Units/Ancient Ant
   rotate: false
-  xy: 726, 323
-  size: 32, 28
-  orig: 32, 28
+  xy: 726, 322
+  size: 32, 29
+  orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Chlorophyllant
