@@ -496,21 +496,21 @@ TileSets/FantasyHex/Units/Chlorophyllant
   index: -1
 TileSets/FantasyHex/Units/Chloro Cocoon
   rotate: false
-  xy: 776, 273
+  xy: 676, 273
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Blaze Cocoon
   rotate: false
-  xy: 776, 273
+  xy: 676, 273
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Ark Cocoon
   rotate: false
-  xy: 776, 273
+  xy: 676, 273
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
