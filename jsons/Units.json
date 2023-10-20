@@ -671,6 +671,7 @@
 	},
 	{
 		"name": "Blaze Cocoon",
+		"uniqueTo": "Rhodium Humila",
 		"unitType": "Homo Sapiens",
 		"movement": 2,
 		"strength": 8,
@@ -681,16 +682,17 @@
 	},
 	{
 		"name": "Humant",
+		"uniqueTo": "Rhodium Humila",
 		"unitType": "Fire",
 		"movement": 2,
 		"strength": 15,
 		"requiredTech": "Axionity",
-		"obsoleteTech": "Axionity",
 		"attackSound": "arrow",
-		"uniques": ["Never appears as a Barbarian unit"]
+		"uniques": ["Unbuildable","Never appears as a Barbarian unit"]
 	},
 	{
 		"name": "Ark Cocoon",
+		"uniqueTo": "Rhodium Humila",
 		"unitType": "Eude Fairy",
 		"movement": 2,
 		"strength": 8,
@@ -701,16 +703,17 @@
 	},
 	{
 		"name": "Fairant",
+		"uniqueTo": "Rhodium Humila",
 		"unitType": "Water",
 		"movement": 2,
 		"strength": 15,
 		"requiredTech": "Axionity",
-		"obsoleteTech": "Axionity",
 		"attackSound": "arrow",
-		"uniques": ["Never appears as a Barbarian unit"]
+		"uniques": ["Unbuildable","Never appears as a Barbarian unit"]
 	},
 	{
 		"name": "Chloro Cocoon",
+		"uniqueTo": "Rhodium Humila",
 		"unitType": "Dietary",
 		"movement": 2,
 		"strength": 8,
@@ -721,13 +724,13 @@
 	},
 	{
 		"name": "Chlorophyllant",
+		"uniqueTo": "Rhodium Humila",
 		"unitType": "Fire",
 		"movement": 2,
 		"strength": 15,
 		"requiredTech": "Axionity",
-		"obsoleteTech": "Axionity",
 		"attackSound": "arrow",
-		"uniques": ["Never appears as a Barbarian unit"]
+		"uniques": ["Unbuildable","Never appears as a Barbarian unit"]
 	},
 	{
 		"name": "Swordsant",
