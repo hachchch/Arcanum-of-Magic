@@ -221,6 +221,7 @@
 	{
 		"name": "Prelate",
 		"unitType": "Eude Fairy",
+		"cost": 1000,
 		"movement": 2,
 		"replaces": "Hero",
 		"uniqueTo": "Eucia",
@@ -463,6 +464,7 @@
 		"replaces": "Hero",
 		"uniqueTo": "Green States",
 		"strength": 15,
+		"cost": 1000,
 		"uniques" : ["[+1] Sight","Unbuildable","May withdraw before melee ([50]%)"],
 		"attackSound": "nonmetalhit",
 	},
@@ -637,6 +639,7 @@
 	{
 		"name": "Iron Maiden",
 		"unitType": "Humanoid Spirit",
+		"cost": 1500,
 		"movement": 2,
 		"replaces": "Hero",
 		"uniqueTo": "Spirit Alliance",
@@ -659,6 +662,7 @@
 		"name": "Ancient Ant",
 		"unitType": "Hymenoptera",
 		"movement": 3,
+		"cost": 1000,
 		"replaces": "Hero",
 		"uniqueTo": "Rhodium Humila",
 		"strength": 17,
