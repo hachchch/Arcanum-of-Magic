@@ -677,6 +677,7 @@
 		"upgradesTo": "Humant",
 		"requiredTech": "Paleo Magiculture",
 		"obsoleteTech": "Axionity",
+		"uniques": ["Never appears as a Barbarian unit"]
 	},
 	{
 		"name": "Humant",
@@ -686,6 +687,7 @@
 		"requiredTech": "Axionity",
 		"obsoleteTech": "Axionity",
 		"attackSound": "arrow",
+		"uniques": ["Never appears as a Barbarian unit"]
 	},
 	{
 		"name": "Ark Cocoon",
@@ -695,6 +697,7 @@
 		"upgradesTo": "Fairant",
 		"obsoleteTech": "Axionity",
 		"requiredTech": "Paleo Magiculture",
+		"uniques": ["Never appears as a Barbarian unit"]
 	},
 	{
 		"name": "Fairant",
@@ -704,6 +707,7 @@
 		"requiredTech": "Axionity",
 		"obsoleteTech": "Axionity",
 		"attackSound": "arrow",
+		"uniques": ["Never appears as a Barbarian unit"]
 	},
 	{
 		"name": "Chloro Cocoon",
@@ -713,6 +717,7 @@
 		"upgradesTo": "Chlorophyllant",
 		"obsoleteTech": "Axionity",
 		"requiredTech": "Paleo Magiculture",
+		"uniques": ["Never appears as a Barbarian unit"]
 	},
 	{
 		"name": "Chlorophyllant",
@@ -722,6 +727,7 @@
 		"requiredTech": "Axionity",
 		"obsoleteTech": "Axionity",
 		"attackSound": "arrow",
+		"uniques": ["Never appears as a Barbarian unit"]
 	},
 	{
 		"name": "Swordsant",
