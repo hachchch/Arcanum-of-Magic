@@ -473,3 +473,108 @@ TileSets/FantasyHex/Units/Uncanny Plants
   orig: 32, 28
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Worker-hymenoptera
+  rotate: false
+  xy: 726, 373
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Ancient Ant
+  rotate: false
+  xy: 726, 323
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Chlorophyllant
+  rotate: false
+  xy: 726, 273
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Chloro Cocoon
+  rotate: false
+  xy: 776, 273
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Blaze Cocoon
+  rotate: false
+  xy: 776, 273
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Ark Cocoon
+  rotate: false
+  xy: 776, 273
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Fairant
+  rotate: false
+  xy: 776, 323
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Humant
+  rotate: false
+  xy: 776, 273
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Swordsant
+  rotate: false
+  xy: 776, 373
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Riflemant
+  rotate: false
+  xy: 676, 373
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Musketant
+  rotate: false
+  xy: 676, 423
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/WW1 Ant-Infantry
+  rotate: false
+  xy: 626, 373
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Molten Aluminum Swordsant
+  rotate: false
+  xy: 626, 323
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Company's Intern
+  rotate: false
+  xy: 676, 323
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Settler-hymenoptera
+  rotate: false
+  xy: 626, 423
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
