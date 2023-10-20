@@ -671,13 +671,12 @@
 	},
 	{
 		"name": "Blaze Cocoon",
-		"unitType": "Homo Sapiens",
+		"unitType": "Fire",
 		"movement": 2,
 		"strength": 8,
 		"upgradesTo": "Humant",
 		"requiredTech": "Paleo Magiculture",
 		"obsoleteTech": "Axionity",
-		"uniques" : ["Unbuildable"]
 	},
 	{
 		"name": "Humant",
@@ -689,13 +688,12 @@
 	},
 	{
 		"name": "Ark Cocoon",
-		"unitType": "Eude Fairy",
+		"unitType": "Water",
 		"movement": 2,
 		"strength": 8,
 		"upgradesTo": "Fairant",
 		"obsoleteTech": "Axionity",
 		"requiredTech": "Paleo Magiculture",
-		"uniques" : ["Unbuildable"]
 	},
 	{
 		"name": "Fairant",
@@ -707,13 +705,12 @@
 	},
 	{
 		"name": "Chloro Cocoon",
-		"unitType": "Dietary",
+		"unitType": "Grass",
 		"movement": 2,
 		"strength": 8,
 		"upgradesTo": "Chlorophyllant",
 		"obsoleteTech": "Axionity",
 		"requiredTech": "Paleo Magiculture",
-		"uniques" : ["Unbuildable"]
 	},
 	{
 		"name": "Chlorophyllant",
