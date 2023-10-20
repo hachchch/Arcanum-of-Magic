@@ -684,7 +684,6 @@
 		"unitType": "Fire",
 		"movement": 2,
 		"strength": 15,
-		"uniques" : ["Unbuildable"],
 		"requiredTech": "Axionity",
 		"attackSound": "arrow",
 	},
@@ -704,7 +703,6 @@
 		"movement": 2,
 		"strength": 15,
 		"requiredTech": "Axionity",
-		"uniques" : ["Unbuildable"],
 		"attackSound": "arrow",
 	},
 	{
@@ -722,7 +720,6 @@
 		"unitType": "Fire",
 		"movement": 2,
 		"strength": 15,
-		"uniques" : ["Unbuildable"],
 		"requiredTech": "Axionity",
 		"attackSound": "arrow",
 	},
