@@ -24,6 +24,11 @@
         "movementType": "Land"
     },
     {
+        "name": "Hymenoptera",
+        "uniques": ["[-33]% Strength <vs [Water] units> <when defending>","[+33]% Strength <vs [Water] units> <when attacking>"],
+        "movementType": "Land"
+    },
+    {
         "name": "Fire",
         "uniques": ["[-33]% Strength <vs [Water] units>","[+33]% Strength <vs [Grass] units>"],
         "movementType": "Land"
