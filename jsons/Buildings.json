@@ -164,7 +164,7 @@
 		"requiredTech": "Mana Amplifier",
 		"cost": 80,
 		"production": 4,
-		"uniques": ["[+13]% [Production] <when between [20] and [150] Happiness>"],
+		"uniques": ["[+13]% [Production] <when between [20] and [150] Happiness>","Provides [1] [Mana]"],
 	},
 	{
 		"name": "Moonlight Reactor",
@@ -172,7 +172,7 @@
 		"requiredTech": "Mana Collapse",
 		"cost": 130,
 		"production": 3,
-		"uniques": ["[+33]% [Production] <when below [20] Happiness>"],
+		"uniques": ["[+33]% [Production] <when below [20] Happiness>","Consumes [1] [Mana]"],
 	},
 	{
 		"name": "Factory",
