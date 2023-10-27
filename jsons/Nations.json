@@ -24,7 +24,7 @@
 		"name": "Don't chose this!!",
 		"leaderName": "Test",
 		"adjective": ["Humans"],
-		"startBias": ["Plains","Avoid [Plains]","Ocean","Ice","Avoid [Coast]","Oasis","River","Lakes","Mountain","Marsh"],
+		"startBias": ["Avoid [Plains]","Ocean","Avoid [Ice]","Avoid [Coast]","Avoid [Oasis]","Avoid [River]","Avoid [Lakes]","Avoid [Mountain]","Avoid [Marsh]","Avoid [Grassland]","Avoid [Desert]","Avoid [Snow]","Avoid [Tundra]","Avoid [Hill]","Avoid [Forest]","Avoid [Jungle]","Avoid [Atoll]"],
 		"preferredVictoryType": "Time",
 
 		"startIntroPart1": "",
