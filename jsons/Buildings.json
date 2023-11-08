@@ -1,4 +1,18 @@
 [
+	// ? I don't need this...
+	{
+		"name": "Unpalace",
+		"uniqueTo": "Don't chose this!!",
+		"isNationalWonder": true,
+		"production": -1000,
+		"science": -1000,
+		"gold": -10,
+		"culture": 1,
+		"cityStrength": -200,
+		"cost": 1,
+		"uniques": ["Indicates the capital city","Heal this unit by [-20] HP <upon ending a turn in a [Land] tile>","Rebel units may spawn","Rebel units may spawn","Rebel units may spawn","Rebel units may spawn"]
+        },
+	// General
         {
                 "name": "Palace",
 		"isNationalWonder": true,
