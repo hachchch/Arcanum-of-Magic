@@ -16,6 +16,24 @@
 			"Requires at least [2] population"],
 		"hurryCostModifier": 20
         },
+	{
+		"name": "Unhero",
+		"unitType": "Homo Sapiens",
+		"movement": 1,
+		"strength": 100,
+		"uniques" : ["[-20] HP when healing","Unit will heal every turn, even if it performs an action"],
+		"attackSound": "metalhit",
+	},
+	{
+		"name": "Unsettler",
+		"unitType": "Homo Sapiens",
+		"uniqueTo": "",
+		"strength": 100,
+		"replaces": "Settler",
+		"movement": 2,
+		"uniques": ["[-20] HP when healing","Unit will heal every turn, even if it performs an action","Unbuildable"],
+		"hurryCostModifier": 20
+	},
 	// Homo Sapiens
 	{
 		"name": "Hero",
