@@ -231,7 +231,7 @@
                 "food": 3,
 		"movementCost": 2,
 		"overrideStats": true,
-		"turnsInto": "Forest",
+		"turnsInto": "Grassland",
 		"unbuildable": true,
 		"defenceBonus": 0.60,
 		"occursOn": ["Grassland"],
