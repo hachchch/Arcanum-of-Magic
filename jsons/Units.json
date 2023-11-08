@@ -16,8 +16,11 @@
 			"Requires at least [2] population"],
 		"hurryCostModifier": 20
         },
+	// Unit to Kill
 	{
 		"name": "Unhero",
+		"replaces": "Hero",
+		"uniqueTo": "Don't chose this!!",
 		"unitType": "Homo Sapiens",
 		"movement": 1,
 		"strength": 100,
@@ -27,12 +30,12 @@
 	{
 		"name": "Unsettler",
 		"unitType": "Homo Sapiens",
-		"uniqueTo": "",
+		"uniqueTo": "Don't chose this!!",
 		"strength": 100,
 		"replaces": "Settler",
 		"movement": 2,
 		"uniques": ["[-20] HP when healing","Unit will heal every turn, even if it performs an action","Unbuildable"],
-		"hurryCostModifier": 20
+		"hurryCostModifier": 2000
 	},
 	// Homo Sapiens
 	{
