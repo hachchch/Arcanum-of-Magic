@@ -23,18 +23,18 @@
 		"uniqueTo": "Don't chose this!!",
 		"unitType": "Homo Sapiens",
 		"movement": 1,
-		"strength": 10,
-		"uniques" : ["Heal this unit by [-20] HP <upon ending a turn in a [Land] tile>"],
+		"strength": 15,
+		"uniques" : ["Heal this unit by [-20] HP <upon ending a turn in a [Land] tile> <hidden from users>"],
 		"attackSound": "metalhit",
 	},
 	{
 		"name": "Unsettler",
 		"unitType": "Homo Sapiens",
 		"uniqueTo": "Don't chose this!!",
-		"strength": 5,
+		"strength": 8,
 		"replaces": "Settler",
 		"movement": 2,
-		"uniques": ["Heal this unit by [-20] HP <upon ending a turn in a [Land] tile>","[+300]% Strength <vs cities>"],
+		"uniques": ["Heal this unit by [-20] HP <upon ending a turn in a [Land] tile> <hidden from users>","[+300]% Strength <vs cities> <hidden from users>"],
 		"hurryCostModifier": 2000
 	},
 	// Homo Sapiens
