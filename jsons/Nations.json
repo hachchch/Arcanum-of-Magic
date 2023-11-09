@@ -5,14 +5,6 @@
 		"outerColor": [255,255,255]
 //		"innerColor": [255,255,255]
 	},
-	/*
-	{
-		// nations
-		//Nations
-		// Nations
-		//nations
-	},
-	*/
 		//Barbarian
 	{
 		"name": "Barbarians",
@@ -46,6 +38,7 @@
 		"uniques": ["Message: 'you can see Tiles and units texture to using Fantasy Hex'"],
 		"cities": ["Restart plz"]
 	},
+	// Nations
 	{
 		"name": "Council of Kingdoms",
 		"leaderName": "Alexandros VI",
