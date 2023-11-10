@@ -19,7 +19,7 @@
 		"startBias": ["Avoid [Plains]","Ocean","Avoid [Ice]","Avoid [Coast]","Avoid [Oasis]","Avoid [River]","Avoid [Lakes]","Avoid [Mountain]","Avoid [Marsh]","Avoid [Grassland]","Avoid [Desert]","Avoid [Snow]","Avoid [Tundra]","Avoid [Hill]","Avoid [Forest]","Avoid [Jungle]","Avoid [Atoll]"],
 		"preferredVictoryType": "Time",
 
-		"startIntroPart1": "",
+		"startIntroPart1": "\n",
 		"startIntroPart2": "",
 
 		"declaringWar": "The demon wants the blood of soldiers!",
@@ -230,6 +230,43 @@
 			"Ellasar","Erech","Kutha","Sirpurla","Neribtum","Ashur","Ninveh","Nimrud","Arbela","Nuzi",
 			"Arrapkha","Tutub","Shaduppum","Rapiqum","Mashkan Shapir","Tuttul","Ramad","Ana","Haradum","Agrab",
 			"Uqair","Gubba","Hafriyat","Nagar","Shubat Enlil","Urhai","Urkesh","Awan","Riblah","Tayma"],
+	},
+	{
+		"name": "C-Yak",
+		"leaderName": "Blyaaat",
+		"adjective": ["Oak"],
+		"startBias": ["Swamp"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "Eucian or Eude Fairies...",
+		"startIntroPart2": "IntroPart2: --",
+
+		"declaringWar": "We wants the flesh blood of \n!",
+		"attacked": "Oh well, I presume you know what you're doing.",
+		"defeated": "It is over. Perhaps now I shall have peace, at last.",
+		"introduction": "Are you real or a phantom?",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+
+		"outerColor": [152,132,114],
+		"innerColor": [46,0,36],
+		"style": "oak",
+		"uniqueName": "War Phobia",
+		"uniques": ["[+2 Happiness] from every specialist [in all cities] <when not at war>",
+		"[+1 Culture] per [2] population [in all cities] <when not at war>",
+		"[-25]% Strength <for [All] units> <upon declaring war with a major Civilization>",
+		"[-5 Happiness] [in capital] <upon declaring war with a major Civilization>",
+		"[+50]% Strength <for [Military] units>",
+		"[100]% Gold cost of upgrading","Heals [-5] damage if it kills a unit"]
+		"cities": ["Babylon","Akkad","Dur-Kurigalzu","Nippur","Borsippa","Sippar","Opis","Mari","Shushan","Eshnunna",
+			"Ellasar","Erech","Kutha","Sirpurla","Neribtum","Ashur","Ninveh","Nimrud","Arbela","Nuzi",
+			"Arrapkha","Tutub","Shaduppum","Rapiqum","Mashkan Shapir","Tuttul","Ramad","Ana","Haradum","Agrab",
+			"Uqair","Gubba","Hafriyat","Nagar","Shubat Enlil","Urhai","Urkesh","Awan","Riblah","Tayma"],
+	},
+	{
 	},
 	// City-States
 	{
