@@ -279,14 +279,14 @@ TileSets/FantasyHex/Units/Dreadnoughtman
   index: -1
 TileSets/FantasyHex/Units/Warrior
   rotate: false
-  xy: 426, 523
+  xy: 426, 573
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-arithrophican
   rotate: false
-  xy: 426, 573
+  xy: 426, 523
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
