@@ -1,6 +1,7 @@
 {
     "name": "Global uniques",
     "uniques": [
-        "[+4 Culture] [in all cities]"
+        "[+4 Culture] [in all cities]","[-1] Movement <for [All] units> <when below [-50] [Mana]>",
+        "[-33]% Strength <for [All] units> <when below [0] [Mana]>"
     ]
 }
