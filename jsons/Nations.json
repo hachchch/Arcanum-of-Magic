@@ -106,10 +106,10 @@
 		"startIntroPart1": "",
 		"startIntroPart2": "",
 
-		"declaringWar": "The demon wants the blood of soldiers!",
-		"attacked": "Oh well, I presume you know what you're doing.",
-		"defeated": "It is over. Perhaps now I shall have peace, at last.",
-		"introduction": "Are you real or a phantom?",
+		"declaringWar": "We wants the flesh blood of lives!",
+		"attacked": "Well well... How you're barbarian, fool lives don't know How the Fairies Power outrageous!",
+		"defeated": "It is over. Perhaps now I shall have extinction, at last.",
+		"introduction": "Are you fairy or something?",
 
 		"neutralHello": "Greetings.",
 		"hateHello": "What do YOU want?!",
@@ -235,7 +235,6 @@
 		"name": "Arithrophone",
 		"leaderName": "Lily Fountane",
 		"adjective": ["Arithrophican"],
-		"startBias": ["Lakes"],	
 		"preferredVictoryType": "Diplomatic",
 
 		"startIntroPart1": "Arithrophican",
