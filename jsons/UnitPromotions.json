@@ -47,11 +47,11 @@
 	},
 	{
 		"name": "Body Trans",
-		"uniques": ["[Military] units gain the [Extended Hallucination] promotion <[67] times>"]
+		"uniques": ["This Unit gains the [Extended Hallucination] promotion <[3] times>"]
 	},
 	{
 		"name": "Extended Hallucination",
-		"uniques": ["Consumes [1] [Mana]","[+30]% Strength","Instantly provides [1] [Mana] <upon being defeated>"]
+		"uniques": ["Doing so will consume this opportunity to choose a Promotion","Consumes [1] [Mana]","[+30]% Strength","Instantly provides [1] [Mana] <upon being defeated>"]
 	},
 	{
 		"name": "Klinefelter Syndrome",
