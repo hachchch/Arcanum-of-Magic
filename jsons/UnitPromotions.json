@@ -51,7 +51,7 @@
 	},
 	{
 		"name": "Extended Hallucination",
-		"uniques": ["Consumes [1] [Mana]","[+30]% Strength","Provides [1] [Mana] <upon being defeated>"]
+		"uniques": ["Consumes [1] [Mana]","[+30]% Strength","Instantly provides [1] [Mana] <upon being defeated>"]
 	},
 	{
 		"name": "Klinefelter Syndrome",
