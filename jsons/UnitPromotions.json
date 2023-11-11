@@ -51,7 +51,7 @@
 	},
 	{
 		"name": "EH",
-		"uniques": ["Extended Hallucination","Doing so will consume this opportunity to choose a Promotion","Instantly consumes [25] [Mana]","[+30]% Strength <for [9] turns>","Instantly provides [1] [Mana] <upon being defeated>"]
+		"uniques": ["Extended Hallucination","Doing so will consume this opportunity to choose a Promotion","Instantly consumes [25] [Mana]","[+10]% Strength <for [9] turns>","Instantly provides [1] [Mana] <upon being defeated>"]
 	},
 	{
 		"name": "Mutation Accident Chance",
