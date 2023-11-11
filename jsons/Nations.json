@@ -255,7 +255,7 @@
 		"style": "arithrophican",
 		"uniqueName": "Descendant of Phantasmagorian",
 		"uniques": ["[Military] units gain the [Body Trans] promotion","[Military] units gain the [Klinefelter Syndrome] promotion <with [10]% chance>",
-		"[+10]% Strength <when above [5] [Mana]> <when at war>","[+10]% Strength <when above [3] [Mana]> <with [Mana]> <when defending>","[+10]% Strength <with [Mana]> <when attacking>"]
+		"[+10]% Strength <when above [500] [Mana]> <when at war>","[+10]% Strength <when above [300] [Mana]> <when above [100] [Mana]> <when defending>","[+10]% Strength <with [Mana]> <when attacking>"]
 		"cities": ["Samael","Kithas","Wayon","Ansor","Borsippa","Sippar","Opis","Mari","Shushan","Eshnunna",
 			"Ellasar","Erech","Kutha","Sirpurla","Neribtum","Ashur","Ninveh","Nimrud","Arbela","Nuzi",
 			"Arrapkha","Tutub","Shaduppum","Rapiqum","Mashkan Shapir","Tuttul","Ramad","Ana","Haradum","Agrab",
