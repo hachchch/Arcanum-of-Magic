@@ -55,7 +55,7 @@
 	},
 	{
 		"name": "Mutation Accident Chance",
-		"uniques": ["This Unit gains the [Klinefelter Syndrome] promotion <with [5]% chance>","Doing so will consume this opportunity to choose a Promotion"]
+		"uniques": ["This Unit gains the [Klinefelter Syndrome] promotion <with [2]% chance>","Doing so will consume this opportunity to choose a Promotion"]
 	},
 	{
 		"name": "Klinefelter Syndrome",
