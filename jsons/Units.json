@@ -63,7 +63,7 @@
 		"strength": 12,
 		"cost": 80,
 		"attackSound": "arrow",
-		"uniques": ["Consumes [50] [Mana]"],
+		"uniques": ["Instantly consumes [50] [Mana]"],
 	},
 	{
 		"name": "Heroic Magician",
@@ -72,7 +72,7 @@
 		"strength": 12,
 		"cost": 80,
 		"attackSound": "arrow",
-		"uniques": ["Consumes [50] [Mana]"],
+		"uniques": ["Instantly consumes [50] [Mana]"],
 	},
 	{
 		"name": "Aqueous Magician",
