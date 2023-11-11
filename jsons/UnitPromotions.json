@@ -47,7 +47,7 @@
 	},
 	{
 		"name": "Body Trans",
-		"uniques": ["This Unit gains the [Extended Hallucination] promotion <[3] times>","This Unit gains the [Mutation Accident Chance] promotion <upon ending a turn in a [Land] tile>"]
+		"uniques": ["This Unit gains the [EH] promotion <[3] times>","This Unit gains the [Mutation Accident Chance] promotion <upon ending a turn in a [Land] tile>"]
 	},
 	{
 		"name": "EH",
