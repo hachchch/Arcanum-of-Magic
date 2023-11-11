@@ -284,7 +284,7 @@ TileSets/FantasyHex/Units/Warrior
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Worker-
+TileSets/FantasyHex/Units/Worker-arithrophican
   rotate: false
   xy: 426, 573
   size: 32, 28
