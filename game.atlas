@@ -228,6 +228,69 @@ TileSets/FantasyHex/Units/Fairy Militia
   orig: 32, 28
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Female Warrior
+  rotate: false
+  xy: 526, 573
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Ido-Arm
+  rotate: false
+  xy: 476, 573
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Descendant of Phantasmagorian
+  rotate: false
+  xy: 476, 623
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Polideal
+  rotate: false
+  xy: 476, 523
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Arrodeal
+  rotate: false
+  xy: 476, 473
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Eodeal
+  rotate: false
+  xy: 426, 473
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Dreadnoughtman
+  rotate: false
+  xy: 376, 473
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Warrior
+  rotate: false
+  xy: 426, 523
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Worker-
+  rotate: false
+  xy: 426, 573
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Fairy Gunner
   rotate: false
   xy: 576, 623
