@@ -254,14 +254,10 @@
 		"outerColor": [80,80,75],
 		"innerColor": [200,200,180],
 		"style": "arithrophican",
-		"uniqueName": "War Phobia",
-		"uniques": ["[+2 Happiness] from every specialist [in all cities] <when not at war>",
-		"[+1 Culture] per [2] population [in all cities] <when not at war>",
-		"[-25]% Strength <for [All] units> <upon declaring war with a major Civilization>",
-		"[-5 Happiness] [in capital] <upon declaring war with a major Civilization>",
-		"[+50]% Strength <for [Military] units>",
-		"[100]% Gold cost of upgrading","Heals [-5] damage if it kills a unit"]
-		"cities": ["Babylon","Akkad","Dur-Kurigalzu","Nippur","Borsippa","Sippar","Opis","Mari","Shushan","Eshnunna",
+		"uniqueName": "Descendant of Phantasmagorian",
+		"uniques": ["[Military] units gain the [Body Trans] promotion","[Military] units gain the [Klinefelter Syndrome] promotion <with [10]% chance>",
+		"[+10]% Strength <when above [5] [Mana]> <when at war>","[+10]% Strength <when above [3] [Mana]> <with [Mana]> <when defending>","[+10]% Strength <with [Mana]> <when attacking>"]
+		"cities": ["Samael","Kithas","Wayon","Ansor","Borsippa","Sippar","Opis","Mari","Shushan","Eshnunna",
 			"Ellasar","Erech","Kutha","Sirpurla","Neribtum","Ashur","Ninveh","Nimrud","Arbela","Nuzi",
 			"Arrapkha","Tutub","Shaduppum","Rapiqum","Mashkan Shapir","Tuttul","Ramad","Ana","Haradum","Agrab",
 			"Uqair","Gubba","Hafriyat","Nagar","Shubat Enlil","Urhai","Urkesh","Awan","Riblah","Tayma"],
