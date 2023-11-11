@@ -29,6 +29,11 @@
         "movementType": "Land"
     },
     {
+        "name": "Transhuman",
+        "movementType": "Land"
+    },
+    // Magic Type
+    {
         "name": "Fire",
         "uniques": ["[-33]% Strength <vs [Water] units>","[+33]% Strength <vs [Grass] units>"],
         "movementType": "Land"
