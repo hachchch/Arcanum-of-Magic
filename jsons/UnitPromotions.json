@@ -47,11 +47,15 @@
 	},
 	{
 		"name": "Body Trans",
-		"uniques": ["This Unit gains the [Extended Hallucination] promotion <[3] times>"]
+		"uniques": ["This Unit gains the [Extended Hallucination] promotion <[3] times>","This Unit gains the [Mutation Accident Chance] promotion <upon ending a turn in a [Land] tile>"]
 	},
 	{
 		"name": "Extended Hallucination",
 		"uniques": ["Doing so will consume this opportunity to choose a Promotion","Instantly consumes [25] [Mana]","[+30]% Strength <for [9] turns>","Instantly provides [1] [Mana] <upon being defeated>"]
+	},
+	{
+		"name": "Mutation Accident Chance",
+		"uniques": ["This Unit gains the [Klinefelter Syndrome] promotion <with [10]% chance>","Doing so will consume this opportunity to choose a Promotion"]
 	},
 	{
 		"name": "Klinefelter Syndrome",
