@@ -272,7 +272,7 @@ TileSets/FantasyHex/Units/Eodeal
   index: -1
 TileSets/FantasyHex/Units/Dreadnoughtman
   rotate: false
-  xy: 376, 473
+  xy: 376, 474
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -462,6 +462,20 @@ TileSets/FantasyHex/Units/Iron Maiden
 TileSets/FantasyHex/Units/Ghoul
   rotate: false
   xy: 876, 775
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Spirit Swordsman
+  rotate: false
+  xy: 876, 825
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Spirit Bowman
+  rotate: false
+  xy: 926, 825
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
