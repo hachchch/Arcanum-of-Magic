@@ -938,7 +938,7 @@
 		"cost": 180,
 		"requiredTech": "Civil Politics",
 		"attackSound": "shot",
-		"uniques": ["[+45]% Strength <for units with [promotion]> <when attacking>","[+30]% Strength <for units with [promotion]>"],
+		"uniques": ["[+15]% Strength <for units with [Klinefelter Syndrome]> <when attacking>","[+35]% Strength <for units with [Klinefelter Syndrome]>"],
 	},
 	{
 		"name": "Dreadnoughtman",
