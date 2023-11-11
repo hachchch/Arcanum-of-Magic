@@ -254,7 +254,7 @@
 		"innerColor": [200,200,180],
 		"style": "arithrophican",
 		"uniqueName": "Descendant of Phantasmagorian",
-		"uniques": ["[Military] units gain the [Body Trans] promotion","[Military] units gain the [Klinefelter Syndrome] promotion <with [10]% chance>",
+		"uniques": ["[Military] units gain the [Body Trans] promotion",
 		"[+10]% Strength <when above [500] [Mana]> <when at war>","[+10]% Strength <when above [300] [Mana]> <when above [100] [Mana]> <when defending>","[+10]% Strength <with [Mana]> <when attacking>"]
 		"cities": ["Samael","Kithas","Wayon","Ansor","Borsippa","Sippar","Opis","Mari","Shushan","Eshnunna",
 			"Ellasar","Erech","Kutha","Sirpurla","Neribtum","Ashur","Ninveh","Nimrud","Arbela","Nuzi",
@@ -264,7 +264,7 @@
 	// City-States
 	{
 		"name": "Village",
-		"adjective": ["Bruxellois"],
+		"adjective": ["Villagers"],
 		"cityStateType": "Cultured",
 
 		"declaringWar": "You leave us no choice. War it must be.",
