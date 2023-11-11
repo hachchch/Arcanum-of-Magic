@@ -47,7 +47,7 @@
 	},
 	{
 		"name": "Body Trans",
-		"uniques": ["<[67] times>"]
+		"uniques": ["[Military] units gain the [Extended Hallucination] promotion <[67] times>"]
 	},
 	{
 		"name": "Extended Hallucination",
@@ -55,7 +55,7 @@
 	},
 	{
 		"name": "Klinefelter Syndrome",
-		"uniques": [""]
+		"uniques": ["Change Sexual Chromosomes","[-35]% Strength","[-15]% Strength <when attacking>"]
 	},
 	{
 		"name": "Rejuvenation", // only for Units that have been close to Natural Wonder Fountain of Youth
