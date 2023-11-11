@@ -964,7 +964,7 @@
 		"cost": 180,
 		"requiredTech": "Civil Politics",
 		"attackSound": "shot",
-		"uniques": ["[+15]% Strength <for units with [Klinefelter Syndrome]> <when attacking>","[+35]% Strength <for units with [Klinefelter Syndrome]>"],
+		"uniques": ["[+15]% Strength <for units with [Klinefelter Syndrome]> <when attacking> <hidden from users>","[+35]% Strength <for units with [Klinefelter Syndrome]> <hidden from users>","This Unit gains the [Klinefelter Syndrome] promotion <with [3]% chance> <hidden from users>"],
 	},
 	{
 		"name": "Dreadnoughtman",
