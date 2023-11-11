@@ -244,7 +244,7 @@ TileSets/FantasyHex/Units/Ido-Arm
   index: -1
 TileSets/FantasyHex/Units/Descendant of Phantasmagorian
   rotate: false
-  xy: 476, 623
+  xy: 480, 623
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
