@@ -235,7 +235,7 @@
 		"name": "Arithrophone",
 		"leaderName": "Lily Fountane",
 		"adjective": ["Arithrophican"],
-		"preferredVictoryType": "Diplomatic",
+		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "Arithrophican",
 		"startIntroPart2": "IntroPart2: --",
