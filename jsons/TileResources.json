@@ -5,6 +5,7 @@
 		"resourceType": "Strategic",
 		"terrainsCanBeFoundOn": ["Grassland","Hill","Forest","Plains","Desert","Snow","Tundra","Jungle"],
 		"production": 1,
+		"uniques": ["Stockpiled"],
 		"improvement": "Temple of Radium",
 		"improvementStats": {"production": 1},
 	},
