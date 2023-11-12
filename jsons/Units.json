@@ -268,7 +268,7 @@
 		"strength": 12,
 		"cost": 80,
 		"attackSound": "metalhit",
-		"uniques": ["Instantly consumes [50] [Mana]"],
+		"uniques": ["Unbuildable <when below [50] [Mana]>","Instantly consumes [50] [Mana]"],
 	},
 	{
 		"name": "Purgatory Fairy",
@@ -280,7 +280,7 @@
 		"strength": 12,
 		"cost": 80,
 		"attackSound": "metalhit",
-		"uniques": ["Instantly consumes [50] [Mana]"],
+		"uniques": ["Unbuildable <when below [50] [Mana]>","Instantly consumes [50] [Mana]"],
 	},
 	{
 		"name": "Barnacle Fairy",
@@ -291,7 +291,7 @@
 		"strength": 12,
 		"cost": 80,
 		"attackSound": "metalhit",
-		"uniques": ["Instantly consumes [50] [Mana]"],
+		"uniques": ["Unbuildable <when below [50] [Mana]>","Instantly consumes [50] [Mana]"],
 	},
 	{
 		"name": "Covalent Fairy",
@@ -303,7 +303,7 @@
 		"cost": 80,
 		"requiredTech": "Spell Theory",
 		"attackSound": "metalhit",
-		"uniques": ["[+200]% Strength <when defending>","Instantly consumes [50] [Mana]"],
+		"uniques": ["Unbuildable <when below [50] [Mana]>","[+200]% Strength <when defending>","Instantly consumes [50] [Mana]"],
 	},
 	{
 		"name": "Alumina Fairy",
@@ -316,7 +316,7 @@
 		"cost": 240,
 		"requiredTech": "Cosmic Power",
 		"attackSound": "cannon",
-		"uniques": ["[+100]% Strength <when defending>","Instantly consumes [150] [Mana]"],
+		"uniques": ["Unbuildable <when below [150] [Mana]>","[+100]% Strength <when defending>","Instantly consumes [150] [Mana]"],
 	},
 	{
 		"name": "Handy Fairy",
@@ -333,7 +333,7 @@
 		"uniques": ["[-75]% Strength <vs cities>",
 			"[-70]% Strength <vs [Water] units>",
 		"[-70]% Strength <vs [Grass] units>",
-		"[-70]% Strength <vs [Fire] units>","Instantly consumes [25] [Mana]"],
+		"[-70]% Strength <vs [Fire] units>","Unbuildable <when below [25] [Mana]>","Instantly consumes [25] [Mana]"],
 	},
 	{
 		"name": "Fairy Gunner",
@@ -379,7 +379,7 @@
 		"strength": 36,
 		"cost": 240,
 		"attackSound": "cannon",
-		"uniques": ["Instantly consumes [150] [Mana]"],
+		"uniques": ["Unbuildable <when below [150] [Mana]>","Instantly consumes [150] [Mana]"],
 	},
 	{
 		"name": "Hell Fairy",
@@ -391,7 +391,7 @@
 		"strength": 36,
 		"cost": 240,
 		"attackSound": "cannon",
-		"uniques": ["Instantly consumes [150] [Mana]"],
+		"uniques": ["Unbuildable <when below [150] [Mana]>","Instantly consumes [150] [Mana]"],
 	},
 	{
 		"name": "Wasserleute",
@@ -403,7 +403,7 @@
 		"strength": 36,
 		"cost": 240,
 		"attackSound": "cannon",
-		"uniques": ["Instantly consumes [150] [Mana]"],
+		"uniques": ["Unbuildable <when below [150] [Mana]>","Instantly consumes [150] [Mana]"],
 	},
 	{
 		"name": "Fairy Militia",
@@ -494,7 +494,7 @@
 		"movement": 2,
 		"strength": 12,
 		"cost": 80,
-		"uniques": ["Instantly consumes [50] [Mana]"],
+		"uniques": ["Unbuildable <when below [50] [Mana]>","Instantly consumes [50] [Mana]"],
 		"attackSound": "nonmetalhit",
 	},
 	{
@@ -522,7 +522,7 @@
 		"uniques": ["[-75]% Strength <vs cities>",
 			"[-70]% Strength <vs [Water] units>",
 		"[-70]% Strength <vs [Grass] units>",
-		"[-70]% Strength <vs [Fire] units>","Instantly consumes [25] [Mana]"],
+		"[-70]% Strength <vs [Fire] units>","Unbuildable <when below [25] [Mana]>","Instantly consumes [25] [Mana]"],
 	},
 	{
 		"name": "Grass Gunner",
@@ -568,7 +568,7 @@
 		"strength": 36,
 		"cost": 240,
 		"attackSound": "cannon",
-		"uniques": ["Instantly consumes [150] [Mana]"],
+		"uniques": ["Unbuildable <when below [150] [Mana]>","Instantly consumes [150] [Mana]"],
 	},
 	{
 		"name": "Forest Blaze",
@@ -579,7 +579,7 @@
 		"movement": 2,
 		"strength": 36,
 		"cost": 240,
-		"uniques": ["Instantly consumes [150] [Mana]"],
+		"uniques": ["Unbuildable <when below [150] [Mana]>","Instantly consumes [150] [Mana]"],
 		"attackSound": "cannon",
 	},
 	{
@@ -591,7 +591,7 @@
 		"movement": 2,
 		"strength": 36,
 		"cost": 240,
-		"uniques": ["Instantly consumes [150] [Mana]"],
+		"uniques": ["Unbuildable <when below [150] [Mana]>","Instantly consumes [150] [Mana]"],
 		"attackSound": "cannon",
 	},
 	{
@@ -639,14 +639,14 @@
 		"movement": 2,
 		"strength": 12,
 		"cost": 80,
-		"uniques": ["Instantly consumes [50] [Mana]"],
+		"uniques": ["Unbuildable <when below [50] [Mana]>","Instantly consumes [50] [Mana]"],
 		"attackSound": "metalhit",
 	},
 	{
 		"name": "Ocean Mage",
 		"replaces": "Aqueous Magician",
 		"uniqueTo": "Green States",
-		"uniques": ["Instantly consumes [50] [Mana]"],
+		"uniques": ["Unbuildable <when below [50] [Mana]>","Instantly consumes [50] [Mana]"],
 		"unitType": "Water",
 		"movement": 2,
 		"strength": 12,
