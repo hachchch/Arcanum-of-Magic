@@ -250,7 +250,7 @@
 		"wonderCost": 500,
 		"techs": [
 			{
-				"name": "The Incandescent Light",
+				"name": "Androposic Innovations",
 				"row": 6,
 				"prerequisites": ["Crystallography","Physics","Machinery","Efficient Market","Education","Civil Politics","Cosmic Power"],
 				"quote": "The electricity was invented. Yes, we no longer need divine light.",
@@ -259,6 +259,20 @@
 				"name": "Magical Ballistics",
 				"row": 9,
 				"prerequisites": ["Crystallography","Physics","Machinery","Education","Cosmic Power"],	
+			},
+		]
+	},
+	{
+		"columnNumber": 8,
+		"era": "Stereotype era",
+		"techCost": 780,
+		"buildingCost": 200,
+		"wonderCost": 500,
+		"techs": [
+			{
+				"name": "Global Guilds",
+				"row": 7,
+				"prerequisites": ["Androposic Innovations","Efficient Market"],
 			},
 		]
 	},
