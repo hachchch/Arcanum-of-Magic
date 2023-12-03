@@ -273,7 +273,7 @@
 				"name": "Global Guilds",
 				"row": 7,
 				"prerequisites": ["Androposic Innovations","Efficient Market"],
-			},
+			}
 		]
 	},
 ]
