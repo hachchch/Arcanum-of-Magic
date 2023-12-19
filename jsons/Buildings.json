@@ -92,6 +92,52 @@
 		"uniques": ["Hidden when religion is disabled","[+10]% Strength <for [Hero] units>"]
 	},
 	{
+		"name": "Epistemological Void Palace",
+		"isWonder": true,
+		"faith": 9,
+		"requiredTech": "Exploring the Power of the Dimention",
+	},
+	{
+		"name": "Ethical Storage",
+		"isWonder": true,
+		"happiness": 2,
+		"requiredTech": "Mana Collapse",
+		"uniques": ["[+10]% [Happiness] <when above [99] [Mana]>",
+		"[+10]% [Happiness] <when above [74] [Mana]>","[+10]% [Happiness] <when above [49] [Mana]>"]
+	},
+	{
+		"name": "Managenome Identity Compiler",
+		"isWonder": true,
+		"happiness": 2,
+		"requiredTech": "Dimention of Tangent",
+		"uniques": ["[+10]% [Science] <when above [99] [Mana]>",
+		"[+10]% [Science] <when above [74] [Mana]>","[+10]% [Science] <when above [49] [Mana]>"]
+	},
+	{
+		"name": "Nano Brain Constructor",
+		"isWonder": true,
+		"requiredTech": "Darkmatter Exorcisting",
+		"uniques": ["Costs [100] [Mana]","[+15]% [Science] [in all cities]"]
+	},
+	{
+		"name": "Mesozoic Charcoal Maker",
+		"isWonder": true,
+		"requiredTech": "Rotation of Magic Circle",
+		"uniques": ["[+50]% [Gold] [in this city]"]
+	},
+	{
+		"name": "Low Eternally Dimention Portal",
+		"uniques": ["Provides [5] [Mana]"],
+		"isWonder": true,
+		"requiredTech": "Exploring the Power of the Dimention",
+	},
+	{
+		"name": "A and B Portal",
+		"uniques": ["Consumes [2] [Mana]","[+50]% [Science] [in this city]"],
+		"isWonder": true,
+		"requiredTech": "Exploring the Power of the Dimention",
+	},
+	{
 		"name": "Temple of Knowledge",
 		"science": 1,
 		"isWonder": true,
@@ -172,7 +218,14 @@
 		"name": "Magic Library",
 		"requiredTech": "Mana Amplifier",
 		"science": 1,
-		"uniques": ["Provides [1] [Mana] <upon declaring war with a major Civilization>"],
+		"uniques": ["Instantly provides [50] [Mana] <upon declaring war with a major Civilization>"],
+	},
+	{
+		"name": "Ontological Library",
+		"isWonder": true,
+		"science": 2,
+		"requiredTech": "Mana Amplifier",
+		"uniques": ["Instantly provides [200] [Mana] <upon declaring war with a major Civilization>"]
 	},
 	{
 		"name": "Sun Reactor",
