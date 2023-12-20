@@ -12,6 +12,7 @@
         "innerColor": [185,12,12],
 		"uniques": ["Can only heal by pillaging"]
 	},
+	/*
 	{
 		"name": "Don't chose this!!",
 		"leaderName": "Test",
@@ -38,6 +39,7 @@
 		"uniques": ["Message: 'you can see Tiles and units texture to using Fantasy Hex'"],
 		"cities": ["Restart plz"]
 	},
+	*/
 	// Nations
 	{
 		"name": "Council of Kingdoms",
@@ -178,8 +180,8 @@
 		"style": "hymenoptera",
 		"uniqueName": "Nasty Worker of Summer",
 		"uniques": ["The world of serious work ruled by queen ants is old. Now, there are hundreds of companies in one ant nest, each dominate the each ant room. In their countries, capitalist competition is waged all year round, and anger and hatred forever! Black market deals, strikes, and Luddades are commonplace! How lively!",
-			"[Gold] cost of purchasing [Company's Intern] units [-35]%",
-			"[Gold] cost of purchasing [All] units [-40]%",
+			"May buy [Company] units with [Gold] for [3] times their normal Production cost",
+			"[Gold] cost of purchasing [All] units [-20]%",
 			"[-50]% Production when constructing [Military] units [in all cities]",
 			"Cannot build [Homo Sapiens] units","Cannot build [Eude Fairy] units","Cannot build [Dietary] units",
 			"[-33]% Strength <for [All] units>",
