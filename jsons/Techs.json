@@ -250,6 +250,11 @@
 		"wonderCost": 500,
 		"techs": [
 			{
+				"name": "Economics",
+				"row": 3,
+				"prerequisites": ["Education","Efficient Market","Machinery","Physics","Civil Politics"]
+			},
+			{
 				"name": "Androposic Innovations",
 				"row": 6,
 				"prerequisites": ["Crystallography","Physics","Machinery","Efficient Market","Education","Civil Politics","Cosmic Power"],
@@ -270,10 +275,137 @@
 		"wonderCost": 500,
 		"techs": [
 			{
+				"name": "Goods And Services",
+				"row": 2,
+				"prerequisites": ["Androposic Innovations","Economics"],
+			},
+			{
+				"name": "Rationalism",
+				"row": 4,
+				"prerequisites": ["Androposic Innovations","Economics"],
+			},
+			{
 				"name": "Global Guilds",
-				"row": 7,
-				"prerequisites": ["Androposic Innovations","Efficient Market"],
-			}
+				"row": 3,
+				"prerequisites": ["Androposic Innovations","Economics"],
+			},
+			{
+				"name": "Non-Nondualism",
+				"row": 8,
+				"prerequisites": ["Androposic Innovations","Magical Ballistics"]
+			},
+			{
+				"name": "Scientific Paradox",
+				"row": 9,
+				"prerequisites": ["Androposic Innovations","Magical Ballistics"],
+			},
+			{
+				"name": "Magiclear-Nuclear Causality",
+				"row": 10,
+				"prerequisites": ["Androposic Innovations","Magical Ballistics"],
+			},
 		]
 	},
+	{
+		"columnNumber": 9,
+		"era": "Stereotype era",
+		"techCost": 780,
+		"buildingCost": 200,
+		"wonderCost": 500,
+		"techs": [
+			{
+				"name": "Lost Technologies",
+				"row": 9,
+				"prerequisites": ["Magiclear-Nuclear Causality","Scientific Paradox","Non-Nondualism"],
+			},
+			{
+				"name": "Torch of Science",
+				"row": 3,
+				"prerequisites": ["Global Guilds","Rationalism","Goods And Services"],
+			},
+			{
+				"name": "Meaning of Universe",
+				"row": 6,
+				"prerequisites": ["Androposic Innovations"],
+			},
+		]
+	},
+	{
+		"columnNumber": 10,
+		"era": "Stereotype era",
+		"techCost": 780,
+		"buildingCost": 200,
+		"wonderCost": 500,
+		"techs": [
+			{
+				"name": "Scientific Fact",
+				"row": 3,
+				"prerequisites": ["Torch of Science"],
+			},
+			{
+				"name": "Hydrodynamics",
+				"row": 1,
+				"prerequisites": ["Torch of Science"],
+			},
+			{
+				"name": "Biology",
+				"row": 2,
+				"prerequisites": ["Torch of Science"],
+			},
+			{
+				"name": "Combustion",
+				"row": 4,
+				"prerequisites": ["Torch of Science"],
+			},
+			{
+				"name": "Life Meaning",
+				"row": 5,
+				"prerequisites": ["Meaning of Universe"],
+			},
+			{
+				"name": "Transcendence Philosophy",
+				"row": 6,
+				"prerequisites": ["Meaning of Universe"],
+			},
+			{
+				"name": "Naturalism",
+				"row": 7,
+				"prerequisites": ["Meaning of Universe"],
+			},
+			{
+				"name": "Dismal Sorcery",
+				"row": 8,
+				"prerequisites": ["Lost Technologies"],
+			},
+			{
+				"name": "Mana-Ion Working",
+				"row": 9,
+				"prerequisites": ["Lost Technologies"],
+			},
+			{
+				"name": "Dimention of Possible",
+				"row": 10,
+				"prerequisites": ["Lost Technologies"],
+			},
+		]
+	},
+	{
+		"columnNumber": 10,
+		"era": "Stereotype era",
+		"techCost": 780,
+		"buildingCost": 200,
+		"wonderCost": 500,
+		"techs": [
+			{
+				"name": "Subjective Phantasm",
+				"row": 10,
+				"prerequisites": ["Dimention of Possible"]
+			},
+			{
+				"name": "RNA Activation",
+				"row": 9,
+				"prerequisites": ["Mana-Ion Working"]
+			},
+		]
+	}
 ]
