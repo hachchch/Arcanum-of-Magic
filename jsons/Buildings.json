@@ -120,10 +120,22 @@
 		"uniques": ["Costs [100] [Mana]","[+15]% [Science] [in all cities]"]
 	},
 	{
+		"name": "Consciousness Material Enhancer",
+		"culture": 1,
+		"isNationalWonder": true,
+		"requiredTech": "Mana Amplifier",
+		"uniques": ["[+15]% Culture","Consumes [2] [Mana]"]
+	},
+	{
+		"name": "Metaphysical Energies Visualizer",
+		"requiredTech": "Advanced Alchemy",
+		"uniques": ["Costs [800] [Mana]","Provides [4] [Mana]"]
+	},
+	{
 		"name": "Mesozoic Charcoal Maker",
 		"isWonder": true,
-		"requiredTech": "Rotation of Magic Circle",
-		"uniques": ["[+50]% [Gold] [in this city]"]
+		"requiredTech": "Mana Collapse",
+		"uniques": ["Consumes [1] [Mana]","[+50]% [Gold] [in this city]"]
 	},
 	{
 		"name": "Low Eternally Dimention Portal",
