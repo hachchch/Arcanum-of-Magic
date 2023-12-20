@@ -266,7 +266,7 @@
 		"name": "Forest Village",
 		"adjective": ["Villagers"],
 		"startBias": ["Forest"],
-		"cityStateType": "Cultured",
+		"cityStateType": "Maritime",
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -305,7 +305,7 @@
 		"name": "Euas Hamlet",
 		"adjective": ["Villagers"],
 		"startBias": ["Grassland"],
-		"cityStateType": "Cultured",
+		"cityStateType": "Religious",
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -318,7 +318,7 @@
 		"name": "Kilobite's Company",
 		"startBias": ["Hill"],
 		"adjective": ["Villagers"],
-		"cityStateType": "Cultured",
+		"cityStateType": "Mercantile",
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -331,7 +331,7 @@
 		"name": "Megabite's Company",
 		"startBias": ["Hill"],
 		"adjective": ["Villagers"],
-		"cityStateType": "Cultured",
+		"cityStateType": "Militaristic",
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
