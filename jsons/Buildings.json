@@ -297,7 +297,6 @@
 		"isWonder": true,
 		"production": 10,
 		"gold": 5,
-		"providesFreeBuilding": "Bismuth Crystalizer",
 		"reqiredTech": "Crystallography",
 		"uniques": ["Consumes [1] [Mana]"]
 	},
