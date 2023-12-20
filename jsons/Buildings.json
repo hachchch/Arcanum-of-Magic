@@ -283,4 +283,20 @@
 		"requiredTech": "Rotation of Magic Circle",
 		"uniques": ["[+10]% [Production]"],
 	},
+	{
+		"name": "Bismuth Crystalizer",
+		"production": 2,
+		"gold": 1,
+		"requiredTech": "Crystallography",
+		"uniques": ["[+10]% [Production] [in this city]","[+5]% [Gold] [in this city]"]
+	},
+	{
+		"name": "Metal Hydrogen Furnance",
+		"isWonder": true,
+		"production": 10,
+		"gold": 5,
+		"providesFreeBuilding": "Bismuth Crystalizer",
+		"reqiredTech": "Crystallography",
+		"uniques": ["Consumes [1] [Mana]"]
+	},
 ]
