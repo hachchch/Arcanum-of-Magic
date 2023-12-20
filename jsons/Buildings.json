@@ -12,6 +12,7 @@
 		"uniques": ["Indicates the capital city","Gain a free [System] [in all cities]","Gain a free [System2] [in all cities] <after discovering [Rifling]>","Gain a free [System3] [in all cities] <after discovering [Magical Ballistics]>","Free [Hero] appears <upon entering a Golden Age>","Provides [5] [Mana]"]
         },
 	// ?
+	/*
 	{
 		"name": "Unpalace",
 		"uniqueTo": "Don't chose this!!",
@@ -25,6 +26,7 @@
 		"cost": 1,
 		"uniques": ["Indicates the capital city","Rebel units may spawn","Rebel units may spawn","Rebel units may spawn","Rebel units may spawn"]
         },
+	*/
 	{
 		"name": "System",
 		"cityStrength": -5,
