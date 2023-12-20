@@ -867,7 +867,7 @@
 		"cost": 200,
 		"requiredTech": "Contract Management",
 		"attackSound": "shot",
-		"uniques": ["Company","[-20]% Strength <before discovering [Rifling]>"],
+		"uniques": ["Company","Unbuildable","[-20]% Strength <before discovering [Rifling]>"],
 	},
 	// Transhuman
 	{
