@@ -358,12 +358,12 @@
 				"prerequisites": ["Torch of Science"],
 			},
 			{
-				"name": "Life Meaning",
+				"name": "Cosmology",
 				"row": 5,
 				"prerequisites": ["Meaning of Universe"],
 			},
 			{
-				"name": "Transcendence Philosophy",
+				"name": "Transcendenced Philosophy",
 				"row": 6,
 				"prerequisites": ["Meaning of Universe"],
 			},
@@ -397,6 +397,41 @@
 		"wonderCost": 500,
 		"techs": [
 			{
+				"name": "Flight",
+				"row": 1,
+				"prerequisites": ["Combustion","Hydrodynamics"],
+			},
+			{
+				"name": "Molecular Biology",
+				"row": 2,
+				"prerequisites": ["Scientific Fact","Biology"],
+			},
+			{
+				"name": "Ideology Flood",
+				"row": 3,
+				"prerequisites": ["Scientific Fact"],
+			},
+			{
+				"name": "Magnetic Electricity",
+				"row": 4,
+				"prerequisites": ["Combustion"],
+			},
+			{
+				"name": "Mana Distorsion",
+				"row": 6,
+				"prerequisites": ["Cosmology"]
+			},
+			{
+				"name": "Common Ancestor",
+				"row": 5,
+				"prerequisites": ["Transcendenced Philosophy"]
+			},
+			{
+				"name": "Paleozoic Recovery",
+				"row": 7,
+				"prerequisites": ["Naturalism"]
+			},
+			{
 				"name": "Subjective Phantasm",
 				"row": 10,
 				"prerequisites": ["Dimention of Possible"]
@@ -406,6 +441,35 @@
 				"row": 9,
 				"prerequisites": ["Mana-Ion Working"]
 			},
+			{
+				"name": "Darkodite Fusion",
+				"row": 8,
+				"prerequisites": ["Dismal Sorcery"]
+			},
+		]
+	},
+	{
+		"columnNumber": 11,
+		"era": "Stereotype era",
+		"techCost": 780,
+		"buildingCost": 200,
+		"wonderCost": 500,
+		"techs": [
+			{
+				"name": "Space Race",
+				"row": 3,
+				"prerequisites": ["Flight","Molecular Biology","Ideology Flood","Magnetic Electricity"]
+			},
+			{
+				"name": "Holy Topology",
+				"row": 6,
+				"prerequisites": ["Mana Distorsion","Paleozoic Recovery","Common Ancestor"]
+			},
+			{
+				"name": "Renewable Magiclear Power",
+				"row": 9,
+				"prerequisites": ["Subjective Phantasm","Darkodite Fusion","RNA Activation"]
+			}
 		]
 	}
 ]
