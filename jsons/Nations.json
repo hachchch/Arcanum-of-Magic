@@ -263,8 +263,9 @@
 	},
 	// City-States
 	{
-		"name": "Village",
+		"name": "Forest Village",
 		"adjective": ["Villagers"],
+		"startBias": ["Forest"],
 		"cityStateType": "Cultured",
 
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -272,6 +273,71 @@
 		"defeated": "I guess you weren't here for the sprouts after all...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [153,255,51],
-		"cities": ["Village"]
+		"cities": ["Forest Village"]
+	},
+	{
+		"name": "Jungle Village",
+		"adjective": ["Villagers"],
+		"startBias": ["Jungle"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I guess you weren't here for the sprouts after all...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [153,255,51],
+		"cities": ["Jungle Village"]
+	},
+	{
+		"name": "Plain Village",
+		"adjective": ["Villagers"],
+		"startBias": ["Plains"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I guess you weren't here for the sprouts after all...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [153,255,51],
+		"cities": ["Plain Village"]
+	},
+	{
+		"name": "Euas Hamlet",
+		"adjective": ["Villagers"],
+		"startBias": ["Grassland"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I guess you weren't here for the sprouts after all...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [153,255,51],
+		"cities": ["Euas Hamlet"]
+	},
+	{
+		"name": "Kilobite's Company",
+		"startBias": ["Hill"],
+		"adjective": ["Villagers"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I guess you weren't here for the sprouts after all...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [232,155,191],
+		"cities": ["Kilobite's Company"]
+	},
+	{
+		"name": "Megabite's Company",
+		"startBias": ["Hill"],
+		"adjective": ["Villagers"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I guess you weren't here for the sprouts after all...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [232,155,191],
+		"cities": ["Kilobite's Company"]
 	},
 ]
