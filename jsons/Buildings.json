@@ -297,7 +297,7 @@
 		"isWonder": true,
 		"production": 10,
 		"gold": 5,
-		"reqiredTech": "Crystallography",
+		"requiredTech": "Crystallography",
 		"uniques": ["Consumes [1] [Mana]"]
 	},
 ]
