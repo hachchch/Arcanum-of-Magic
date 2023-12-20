@@ -111,7 +111,7 @@
 		"columnNumber": 4,
 		"era": "Locomotive era",
 		"techCost": 175,
-		"buildingCost": 100,
+		"buildingCost": 125,
 		"wonderCost": 250,
 		"techs": [
 			{
@@ -159,7 +159,7 @@
 		"columnNumber": 5,
 		"era": "Reunion era",
 		"techCost": 275,
-		"buildingCost": 120,
+		"buildingCost": 150,
 		"wonderCost": 300,
 		"techs": [
 			{
@@ -192,8 +192,8 @@
 		"columnNumber": 6,
 		"era": "Reunion era",
 		"techCost": 485,
-		"buildingCost": 160,
-		"wonderCost": 400,
+		"buildingCost": 225,
+		"wonderCost": 350,
 		"techs": [
 			{
 				"name": "Cosmic Power",
@@ -246,8 +246,8 @@
 		"columnNumber": 7,
 		"era": "Stereotype era",
 		"techCost": 780,
-		"buildingCost": 200,
-		"wonderCost": 500,
+		"buildingCost": 250,
+		"wonderCost": 350,
 		"techs": [
 			{
 				"name": "Economics",
@@ -271,8 +271,8 @@
 		"columnNumber": 8,
 		"era": "Stereotype era",
 		"techCost": 780,
-		"buildingCost": 200,
-		"wonderCost": 500,
+		"buildingCost": 300,
+		"wonderCost": 400,
 		"techs": [
 			{
 				"name": "Goods And Services",
@@ -334,8 +334,8 @@
 		"columnNumber": 9,
 		"era": "Stereotype era",
 		"techCost": 780,
-		"buildingCost": 200,
-		"wonderCost": 500,
+		"buildingCost": 350,
+		"wonderCost": 600,
 		"techs": [
 			{
 				"name": "Lost Technologies",
@@ -423,8 +423,8 @@
 		"columnNumber": 11,
 		"era": "Stereotype era",
 		"techCost": 780,
-		"buildingCost": 200,
-		"wonderCost": 500,
+		"buildingCost": 400,
+		"wonderCost": 750,
 		"techs": [
 			{
 				"name": "Flight",
@@ -482,8 +482,8 @@
 		"columnNumber": 12,
 		"era": "Stereotype era",
 		"techCost": 780,
-		"buildingCost": 200,
-		"wonderCost": 500,
+		"buildingCost": 500,
+		"wonderCost": 1000,
 		"techs": [
 			{
 				"name": "Space Race",
