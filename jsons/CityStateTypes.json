@@ -1,5 +1,19 @@
 [
     {
+        "name": "Magical",
+        "friendBonusUniques": [
+            "Provides [1] [Mana] <before the [Locomotive era]>",
+            "Provides [2] [Mana] <starting from the [Locomotive era]> <before the [Stereotype era]>",
+            "Provides [3] [Mana] <starting from the [Stereotype era]>"
+        ],
+        "allyBonusUniques": [
+            "Provides [2] [Mana] <before the [Locomotive era]>",
+            "Provides [4] [Mana] <starting from the [Locomotive era]> <before the [Stereotype era]>",
+            "Provides [6] [Mana] <starting from the [Stereotype era]>"
+        ],
+        "color": [180, 100, 200]
+    },
+    {
         "name": "Cultured",
         "friendBonusUniques": [
             "[+3 Culture] <before the [Medieval era]>",
