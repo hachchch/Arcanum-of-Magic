@@ -268,7 +268,7 @@
 		"name": "Forest Village",
 		"adjective": ["Villagers"],
 		"startBias": ["Forest"],
-		"cityStateType": "Maritime",
+		"cityStateType": "Merchantise",
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -276,6 +276,9 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [153,255,51],
 		"cities": ["Forest Village"]
+	},
+	{
+		
 	},
 	{
 		"name": "Jungle Village",
