@@ -59,7 +59,7 @@
 	},
 	{
 		"name": "Klinefelter Syndrome",
-		"uniques": ["Change Sexual Chromosomes","Heal this unit by [-10] HP","[-35]% Strength","[-15]% Strength <when attacking>"]
+		"uniques": ["Change Sexual Chromosomes","[-35]% Strength","[-15]% Strength <when attacking>"]
 	},
 	{
 		"name": "Rejuvenation", // only for Units that have been close to Natural Wonder Fountain of Youth
